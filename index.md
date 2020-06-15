@@ -3,7 +3,7 @@
 
 Cleverly Logo (3).png
 
-![alt text](https://github.com/MarianaAlmeida/marianaalmeida.github.io/edit/master/Cleverly Logo (3).png "Logo_Cleverly")
+![alt text](https://github.com/MarianaAlmeida/marianaalmeida.github.io/edit/master/Cleverly.png)
 
 
 Since december 2019 I work as Head of Research at [Cleverly](https://cleverly.ai/), in Lisbon, Portugal, driving NLP (Natural Language Processing) and ML (Machine Learning) methods to help customer support teams becoming more efficient.
