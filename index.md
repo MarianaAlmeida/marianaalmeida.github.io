@@ -1,9 +1,8 @@
 # Mariana S. C. Almeida
 
 
-![alt text](https://github.com/MarianaAlmeida/marianaalmeida.github.io/edit/master/CleverlyLogo.png "text")
+[](https://github.com/MarianaAlmeida/marianaalmeida.github.io/edit/master/CleverlyLogo.png "text")
 
-Inline-style: 
 ![alt text](https://github.com/MarianaAlmeida/marianaalmeida.github.io/edit/master/CleverlyLogo.png "Logo Title Text 0")
 
 
