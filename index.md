@@ -3,6 +3,7 @@
 ___
 
 <img align="left" src="https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/CleverlyLogo.png " width=200 > 
+
 ___
 
 Since december 2019 I work as Head of Research at [Cleverly](https://cleverly.ai/), in Lisbon, Portugal, driving NLP (Natural Language Processing) and ML (Machine Learning) methods to help customer support teams becoming more efficient.
@@ -15,15 +16,5 @@ Until 2013 I mostly worked on image processing in academia. I was a Postdoc fell
 
  ___
  
- Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
  ___
  
