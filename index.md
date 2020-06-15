@@ -2,15 +2,8 @@
 
 ___
 
-
-[](https://github.com/MarianaAlmeida/marianaalmeida.github.io/edit/master/CleverlyLogo.png "text")
-
-![alt text](https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/CleverlyLogo.png "Logo Title Text 0")
-
+<img align="left" src="https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/CleverlyLogo.png " width=200 > 
 ___
-
-<img align="left" src="https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/CleverlyLogo.png " width=200 > ![](https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/CleverlyLogo.png )
-
 
 Since december 2019 I work as Head of Research at [Cleverly](https://cleverly.ai/), in Lisbon, Portugal, driving NLP (Natural Language Processing) and ML (Machine Learning) methods to help customer support teams becoming more efficient.
 
