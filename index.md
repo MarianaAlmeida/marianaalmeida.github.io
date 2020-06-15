@@ -3,10 +3,10 @@
 ___
 
 
-<img align="left" src="https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/CleverlyLogo.png " width=200 > 
+<img align="right" src="https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/CleverlyLogo.png " width=200 > 
 
 
-<img align="left" src="https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/mla.gif " width=200 > 
+<img align="left" src="https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/mla.jpg " width=200 > 
 
 
 ___
