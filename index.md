@@ -1,8 +1,6 @@
 # Mariana S. C. Almeida
 
 
-Cleverly Logo (3).png
-
 ![](https://github.com/MarianaAlmeida/marianaalmeida.github.io/edit/master/CleverlyLogo.png)
 
 
