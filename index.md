@@ -1,4 +1,6 @@
-# Mariana SC Almeida
+# Mariana S. C. Almeida
+
+
 
 
 Since december 2019 I work as Head of Research at [Cleverly](https://cleverly.ai/), in Lisbon, Portugal, driving NLP (Natural Language Processing) and ML (Machine Learning) methods to help customer support teams becoming more efficient.
@@ -9,4 +11,8 @@ Until 2013 I mostly worked on image processing in academia. I was a Postdoc fell
 
 
 
+ ___
+ 
+ 
+ ___
  
