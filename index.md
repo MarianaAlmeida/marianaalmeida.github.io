@@ -90,22 +90,22 @@ ___
 
 ## Journals
 
-* **M. S. C. Almeida** and [M. A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
+* **Mariana S. C. Almeida** and [Mário A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
 <br> "[Deconvolving images with unknown boundaries using the alternating direction method of multipliers](http://arxiv.org/abs/1210.2687)," 
 <br> IEEE Trans. Image Processing, vol. 22, No. 8, pp. 3074-3086, 2013. 
 <br> [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/ADMM_UBC.htm)]
 
-* **M. S. C. Almeida** and [M. A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
+* **Mariana S. C. Almeida** and [Mário A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
 <br> "[Stopping Criteria for Iterative Blind and Non-Blind Image Deblurring Algorithms Based on Residual Whiteness Measures](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_Figueiredo_TIP2013_WhitenessMeasures.pdf)," 
 <br> IEEE Trans Image Processing, vol. 22, nº7, pp.2751-63, 2013.
 <br> [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/WhitenessMeasures.htm)]
 
-* **M. S. C. Almeida** and [L. B. Almeida](http://www.lx.it.pt/~lbalmeida/),
+* **Mariana S. C. Almeida** and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/),
 <br> "[Nonlinear saparation of a show-through mixing model using a physical model trained with ICA].(https://www.sciencedirect.com/science/article/abs/pii/S0165168411003409),"
 <br> Signal Processing, Vol 92, issue 4, pp. 872-884, April, 2012. 
 <br> [[Abtract, Bi-affine separability and data](http://www.lx.it.pt/~mscla/Bi-affine%20Model%20Separation%20-%20Signal%20Processing%2012.htm)]
 
-* **M. S. C. Almeida** and [L. B. Almeida](http://www.lx.it.pt/~lbalmeida/), 
+* **Mariana S. C. Almeida** and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/), 
 <br> "[Blind and Semi-Blind Deblurring of Natural Images].(https://ieeexplore.ieee.org/document/5226594)," 
 <br> IEEE Trans. Image Processing, Vol.19, pp. 36-52, January, 2010. 
 <br> [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/BID_NI_UBC.htm)]
@@ -113,14 +113,14 @@ ___
 <br> **In the Top 100 IEEE most accessed articles during the months of January, February and March 2010**
 
 
-* **M. S. C. Almeida** and [L. B. Almeida](http://www.lx.it.pt/~lbalmeida/),
+* **Mariana S. C. Almeida** and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/),
 <br> "[Wavelet-based separation of nonlinear show-through and bleed-through image mixtures](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_Den_Neurocomp08.pdf)," 
 <br> Neurocomputing, Vol. 72, pp. 57-70, December, 2008.
 <br> [[Abstract, data and  MATLAB code](http://www.lx.it.pt/~mscla/Wavelet%20Separation%20-%20Nerucomputing08.htm)]
 
 ## Conferences
 
-* Bernardo Branco, Pedro Abreu, Ana Sofia Gomes, **Mariana S. C. Almeida**, João Tiago Ascensão, Pedro Bizarro
+* Bernardo Branco, Pedro Abreu, Ana Sofia Gomes, **Mariana S. C. Almeida**, João Tiago Ascensão, Pedro Bizarro,
 <br> "[Interleaved Sequence RNNs for Fraud Detection](https://arxiv.org/pdf/2002.05988.pdf),"
 <br> ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2020, Applied Data Science Track KDD ’20, 2020.
 
@@ -141,9 +141,14 @@ ___
 <br> Annual Meeting of the Association for Computational Linguistics (ACL'16), Berlin, Germany, August 2016
 <br> [[Code](https://github.com/dcferreira/multilingual-joint-embeddings/)]
 
-* **M. S. C. Almeida**, C. Pinto, H. Figueira, P. Mendes, and [André F. T. Martins](https://andre-martins.github.io/),
+* Afonso M. A. M. Teodoro, **Mariana S. C. Almeida** and [Mário A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
+<br> "Single-frame Image Denoising and Inpainting Using Gaussian Mixtures," 
+<br> International Conference on Pattern Recognition Applications and Methods (ICPRAM 2015), Lisbon, Portugal, 2015.
+
+* **Mariana S. C. Almeida**,  Cláudia Pinto, Helena Figueira, Pedro Mendes and [André F. T. Martins](https://andre-martins.github.io/),
 <br> "[Aligning Opinions: Cross-Lingual Opinion Mining with Dependencies](doduments/acl2015_dom)," 
 <br> Annual Meeting of the Association for Computational Linguistics (ACL'15), Beijing, China, July 2015. 
+<br> [[Corpus](http://labs.priberam.com/Resources/Fine-Grained-Opinion-Corpus.aspx)]
 
 * **Mariana S. C. Almeida** and [André F. T. Martins](https://andre-martins.github.io/),
 <br> "[Lisbon: Evaluating TurboSemanticParser on Multiple Languages and Out-of-Domain Data](documents/semeval2015_task18.pdf),"
@@ -166,6 +171,46 @@ ___
 <br> "[A New Multi-Document Summarization Corpus for European Portuguese](documents/lrec2014),"
 <br> Proceedings of the Language Resources and Evaluation Conference (LREC'14), Reykjavik, Iceland, May 2014.
 
+
+* **Mariana S. C. Almeida** and [Mário A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
+<br> "Frame-based image deblurring with unknown boundary conditions using the Alternating Direction Method of Multipliers," <br> IEEE International Conf. on Image Processing – ICIP’2013, Melbourne, Australia, September, 2013.
+
+* **Mariana S. C. Almeida** and [Mário A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
+<br> "Blind Image Deblurring with Unknown Boundaries Using the Alternating Direction Method of Multipliers,"
+<br> IEEE International Conf. on Image Processing – ICIP’2013, Melbourne, Australia, September, 2013.
+<br> [[Abstract, data and  MATLAB code](http://www.lx.it.pt/~mscla/BID_ADMM_UBC.htm)]
+
+* **Mariana S. C. Almeida**, André Abelha and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/), 
+<br> "Multi-resolution approach for blind deblurring of natural images”, 
+IEEE International Conference on Image Processing – ICIP’2012, 30 Set. – 3 Out., Orlando, Florida, EUA,2012.
+
+* **Mariana S. C. Almeida** and [Mário A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
+<br> New stopping criteria for iterative blind image deblurring based on residual whiteness measures," 
+<br> IEEE Workshop on Statistical Signal Processing – SSP’2011, Nice, France, 2011. 
+<br> [[MATLAB code](http://www.lx.it.pt/~mscla/WhitenessMeasures.htm)].
+
+*  **Mariana S. C. Almeida** and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/), 
+<br> "[Blind deblurring of foreground-background images](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_ICIP09_2Areas_Submitted.pdf)," 
+<br> IEEE International Conference on Image Processing – ICIP’2009, Cairo, Egypt, 2009.
+[[Poster](http://www.lx.it.pt/~mscla/MA_pdfs/Poster_Almeida_ICIP09_BID2Areas.pdf)]
+
+* **Mariana S. C. Almeida** and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/), 
+<br> "[Blind deblurring of natural images](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_ICASSP08_Debluring.pdf)," 
+<br> IEEE International Conference on Acoustics, Speech and Signal Processing - ICASSP’ 2008, March, Las Vegas, 2008. 
+<br> [[Poster](http://www.lx.it.pt/~mscla/MA_pdfs/Poster_Almeida_ICASSP08_Deblurring.pdf)] [[MATLAB code](http://www.lx.it.pt/~mscla/BID_NI_UBC.htm)]
+
+* **Mariana S. C. Almeida** and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/), 
+<br> "[Separating Nonlinear Image Mixtures Using a Physical Model Trained with ICA](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_MLSP06_Model.pdf),"
+<br> Proc. IEEE Int. Worksh. Machine Learning for Signal Processing 2006 – MLSP’2006, Maynooth, Ireland, Vol.1, pp. 65 – 70, September, 2006. 
+
+* **Mariana S. C. Almeida** and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/), 
+<br> "[Wavelet Based Nonlinear Separation of Images](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_MLSP06_Den.pdf)," 
+<br> Proc. IEEE Int. Worksh. Machine Learning for Signal Processing – MLSP’2006, Maynooth, Ireland, Vol.1, pp. 53 – 58 , September, 2006.
+
+* **Mariana S. C. Almeida**, [Harri Valpola](https://lifeboat.com/ex/bios.harri.valpola) and Jaakko Särelä, 
+<br> "[Separation of a Nonlinear Image Mixtures by Denoising Source Separation](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_ICA06_NonlinearDSS.pdf)," 
+<br> Proc. of the 6th International Conference on Independent Component Analysis and Blind Signal Separation – ICA’2006, Charleston, S.C., USA, pp. 8-15, 2006. 
+[[Poster](http://www.lx.it.pt/~mscla/MA_pdfs/Poster_Almeida_ICA06_NonLinearDSS.bmp)]
 
 
 ___
