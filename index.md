@@ -86,11 +86,11 @@ ___
 <img align="center" src="images/emails.png" width="300"> 
 
 &nbsp; [<img align="center" src="images/linkedin_logo.svg" width="30">](https://www.linkedin.com/in/marianaalmeida/)
-&nbsp; [<img align="center" src="images/scholar_logo2.png" width="28">](https://scholar.google.com/citations?user=1_U5zugAAAAJ&hl=en&authuser=1&oi=sra)
 &nbsp; [<img align="center" src="images/scholar_logo5.png" width="28">](https://scholar.google.com/citations?user=1_U5zugAAAAJ&hl=en&authuser=1&oi=sra)
 
 
 <!--- 
+&nbsp; [<img align="center" src="images/scholar_logo2.png" width="28">](https://scholar.google.com/citations?user=1_U5zugAAAAJ&hl=en&authuser=1&oi=sra)
 &nbsp;[https://www.linkedin.com/in/marianaalmeida/](https://www.linkedin.com/in/marianaalmeida/)
 marianascalmeida @ gmail.com
 mariana @ cleverly.ai
