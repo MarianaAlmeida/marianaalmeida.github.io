@@ -101,7 +101,7 @@ ___
 <br> [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/WhitenessMeasures.htm)]
 
 * **Mariana S. C. Almeida** and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/),
-<br> "[Nonlinear saparation of a show-through mixing model using a physical model trained with ICA].(https://www.sciencedirect.com/science/article/abs/pii/S0165168411003409),"
+<br> "[Nonlinear saparation of a show-through mixing model using a physical model trained with ICA](https://www.sciencedirect.com/science/article/abs/pii/S0165168411003409),"
 <br> Signal Processing, Vol 92, issue 4, pp. 872-884, April, 2012. 
 <br> [[Abtract, Bi-affine separability and data](http://www.lx.it.pt/~mscla/Bi-affine%20Model%20Separation%20-%20Signal%20Processing%2012.htm)]
 
