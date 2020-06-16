@@ -115,14 +115,24 @@ ___
 
 * **M. S. C. Almeida** and [L. B. Almeida](http://www.lx.it.pt/~lbalmeida/),
 <br> "[Wavelet-based separation of nonlinear show-through and bleed-through image mixtures](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_Den_Neurocomp08.pdf)," 
-<br> Neurocomputing, Vol. 72, pp. 57-70, December, 2008.  
+<br> Neurocomputing, Vol. 72, pp. 57-70, December, 2008.
 <br> [[Abstract, data and  MATLAB Code](http://www.lx.it.pt/~mscla/Wavelet%20Separation%20-%20Nerucomputing08.htm)]
 
 ## Conferences
 
-* **M. S. C. Almeida**, C. Pinto, H. Figueira, P. Mendes, and A. F. T. Martins,
-<br> "[Aligning Opinions: Cross-Lingual Opinion Mining with Dependencies](documents/acl2015_dom.pdf)." 
+* [Daniel C. Ferreira](https://dcferreira.com/), [André F. T. Martins](https://andre-martins.github.io/), and **Mariana S. C. Almeida**,
+<br> "[Jointly Learning to Embed and Predict with Multiple Languages](https://www.aclweb.org/anthology/P16-1190.pdf),"
+<br> Annual Meeting of the Association for Computational Linguistics (ACL'16), Berlin, Germany, August 2016
+
+* **M. S. C. Almeida**, C. Pinto, H. Figueira, P. Mendes, and [André F. T. Martins](https://andre-martins.github.io/),
+<br> "[Aligning Opinions: Cross-Lingual Opinion Mining with Dependencies](doduments/acl2015_dom)." 
 <br> Annual Meeting of the Association for Computational Linguistics (ACL'15), Beijing, China, July 2015. 
+
+* **Mariana S. C. Almeida** and [André F. T. Martins](https://andre-martins.github.io/),
+<br> "[Lisbon: Evaluating TurboSemanticParser on Multiple Languages and Out-of-Domain Data](documents/semeval2015_task18.pdf)."
+<br> Proceedings of International Workshop on Semantic Evaluation (SemEval'15), task 18: Broad Coverage Semantic Dependency Parsing, Denver, USA, June 2015.
+[[code](http://labs.priberam.com/Resources/TurboSemanticParser.aspx)]
+
 
 ___
 
