@@ -68,10 +68,10 @@ ___
 
 
 * PhD in Electrical and Computer Engineer (2010) from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)  (IST), [Universidade de Lisboa](https://www.ulisboa.pt/) (ULisboa).
-<br> *PhD Thesis:* "[Blind separation and blind deblurring of natural images](http://www.lx.it.pt/~mscla/MA_pdfs/PhDThesis_MarianaAlmeida2010.pdf)," [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) (IST), October, 2010. 
+<br> PhD Thesis: "[Blind separation and blind deblurring of natural images](http://www.lx.it.pt/~mscla/MA_pdfs/PhDThesis_MarianaAlmeida2010.pdf)," [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) (IST), October, 2010. 
 
 * Five year degree in Electrical and Computer Engineer (2005) from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)  (IST), [Universidade de Lisboa](https://www.ulisboa.pt/) (ULisboa).
-<br> *Final Project:* "[Extensions to Denoising Source Separation](http://www.lx.it.pt/~mscla/MA_pdfs/MarianaSCAlmeida_TFC_05.pdf)," Neural Networks Research Center of the Helsinki University of Technology (HUT; now [Aalto University](https://www.aalto.fi/en)); [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) (IST), October, 2005. 
+<br> Final Project: "[Extensions to Denoising Source Separation](http://www.lx.it.pt/~mscla/MA_pdfs/MarianaSCAlmeida_TFC_05.pdf)," Neural Networks Research Center of the Helsinki University of Technology (HUT; now [Aalto University](https://www.aalto.fi/en)); [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) (IST), October, 2005. 
 
 # Awards 
 
