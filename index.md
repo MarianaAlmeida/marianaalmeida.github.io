@@ -82,7 +82,7 @@ ___
 
 https://www.linkedin.com/in/marianaalmeida/
 
-<span>marianascalmeida@gmail.com</span>
+<text>marianascalmeida@gmail.com</text>
 
 [mariana@cleverly.ai]
 
