@@ -35,7 +35,7 @@ https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/
 &nbsp;
 -->
 
-Since december 2019, I am Head of Research at [Cleverly](https://cleverly.ai/) in Lisbon (Portugal), where we drive NLP (Natural Language Processing) and ML (Machine Learning) to help customer support teams becoming more efficient.
+Since december 2019, I am Head of Research at [Cleverly](https://cleverly.ai/) in Lisbon (Portugal), where we drive NLP (Natural Language Processing) and ML (Machine Learning) to make customer support teams more efficient.
 
 Before that I worked as a researcher in industry for 6 years: 4 years at [Priberam Labs](http://labs.priberam.com/) where I developed ML solutions to NLP problems and 2 years at [Feedzai](https://feedzai.com/) where I worked on ML and deep learning methods for fraud prevention.
 <!--- methods to solve--> <!--- problems -->
