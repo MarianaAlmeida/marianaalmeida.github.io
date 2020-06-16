@@ -95,7 +95,12 @@ ___
 <br> IEEE Trans. Image Processing, vol. 22, No. 8, pp. 3074-3086, 2013. 
 <br> [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/WhitenessMeasures.htm)]
 
-* 
+* **M. S. C. Almeida**and [M. A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
+<br> "[Stopping Criteria for Iterative Blind and Non-Blind Image Deblurring Algorithms Based on Residual Whiteness Measures](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_Figueiredo_TIP2013_WhitenessMeasures.pdf)," 
+<br> IEEE Trans Image Processing, vol. 22, nº7, pp.2751-63, 2013.  
+<br> [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/WhitenessMeasures.htm)]
+
+*
 
 ## Conferences
 
