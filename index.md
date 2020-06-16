@@ -125,20 +125,30 @@ ___
 <br> Annual Meeting of the Association for Computational Linguistics (ACL'16), Berlin, Germany, August 2016
 
 * **M. S. C. Almeida**, C. Pinto, H. Figueira, P. Mendes, and [André F. T. Martins](https://andre-martins.github.io/),
-<br> "[Aligning Opinions: Cross-Lingual Opinion Mining with Dependencies](doduments/acl2015_dom)." 
+<br> "[Aligning Opinions: Cross-Lingual Opinion Mining with Dependencies](doduments/acl2015_dom)," 
 <br> Annual Meeting of the Association for Computational Linguistics (ACL'15), Beijing, China, July 2015. 
 
 * **Mariana S. C. Almeida** and [André F. T. Martins](https://andre-martins.github.io/),
-<br> "[Lisbon: Evaluating TurboSemanticParser on Multiple Languages and Out-of-Domain Data](documents/semeval2015_task18.pdf)."
+<br> "[Lisbon: Evaluating TurboSemanticParser on Multiple Languages and Out-of-Domain Data](documents/semeval2015_task18.pdf),"
 <br> Proceedings of International Workshop on Semantic Evaluation (SemEval'15), task 18: Broad Coverage Semantic Dependency Parsing, Denver, USA, June 2015.
-[[code](http://labs.priberam.com/Resources/TurboSemanticParser.aspx)]
+<br> [[code](http://labs.priberam.com/Resources/TurboSemanticParser.aspx)]
 
 
-semeval2014_task8
+* [André F. T. Martins](https://andre-martins.github.io/) and **Mariana S. C. Almeida**,
+<br> "[Priberam: A Turbo Semantic Parser with Second Order Features](documents/semeval2014_task8),"
+<br> Proceedings of International Workshop on Semantic Evaluation (SemEval'14), task 8: Broad Coverage Semantic Dependency Parsing, Dublin, Ireland, August 2014.
+<br> [[code](http://labs.priberam.com/Resources/TurboSemanticParser.aspx)]
+<br> **Best system of the shared task**
 
-eacl2014
 
-lrec2014
+* **Mariana S. C. Almeida**, Miguel B. Almeida, and [André F. T. Martins](https://andre-martins.github.io/),
+<br> "[A Joint Model For Quotation Attribution and Coreference Resolution](documents/eacl2014),"
+<br> Annual Meeting of the European Chapter of the Association for Computational Linguistics (EACL'14), Gothenburg, Sweden, April 2014.
+
+* Miguel B. Almeida, **Mariana S. C. Almeida**, [André F. T. Martins](https://andre-martins.github.io/), Helena Figueira, Pedro Mendes, and Cláudia Pinto,
+<br> "[A New Multi-Document Summarization Corpus for European Portuguese](documents/lrec2014),"
+<br> Proceedings of the Language Resources and Evaluation Conference (LREC'14), Reykjavik, Iceland, May 2014.
+
 
 
 ___
