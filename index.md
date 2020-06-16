@@ -10,6 +10,7 @@
 <img align="center" src="images/CleverlyLogo.png" width="300"> 
 </p>
 
+[Titles](#titles)
 [Go to Heading section] ("#This is a heading")
 
 <!---  
@@ -37,6 +38,9 @@ Until 2013 I mostly worked on image processing in academia. I was a Postdoc fell
 <!--- , at [IT](https://www.it.pt/) of Lisbon, Portugal.-->
 
  ___
+..
+
+# Titles 
 
 # This is a heading
 
