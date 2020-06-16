@@ -63,7 +63,7 @@ ___
 PhD Thesis: "Blind separation and blind deblurring of natural images", October, 2010.  (PDF)
 
 * Five year degree in Electrical and Computer Engineer (2005) from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)  (IST), [Universidade de Lisboa](https://www.ulisboa.pt/) (ULisboa).
-Final Project: "Extensions to Denoising Source Separation ", Neural Networks Research Center of the Helsinki University of Technology (HUT) - now [Aalto University](https://www.aalto.fi/en); [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) (IST), October, 2005. (PDF)
+Final Project: "Extensions to Denoising Source Separation ", Neural Networks Research Center of the Helsinki University of Technology (HUT; now [Aalto University](https://www.aalto.fi/en)); [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) (IST), October, 2005. (PDF)
 
 
 # Awards 
