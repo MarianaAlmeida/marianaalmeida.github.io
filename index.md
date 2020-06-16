@@ -1,9 +1,6 @@
 # Mariana S. C. Almeida <img align="right" src="https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/CleverlyLogo.png " width=200 > 
 
 
-___
-
-
 <img align="left" src="https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/mla.jpg " width=180 > 
 
 
