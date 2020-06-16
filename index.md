@@ -140,7 +140,7 @@ ___
 <br> Annual Meeting of the Association for Computational Linguistics (ACL'16), Berlin, Germany, August 2016
 <br> [[Code](https://github.com/dcferreira/multilingual-joint-embeddings/)]
 
-* Afonso M. A. M. Teodoro, **Mariana S. C. Almeida** and [Mário A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
+* [Afonso M. A. M. Teodoro](https://www.it.pt/Members/Index/15372), **Mariana S. C. Almeida** and [Mário A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
 <br> "Single-frame Image Denoising and Inpainting Using Gaussian Mixtures," 
 <br> International Conference on Pattern Recognition Applications and Methods (ICPRAM 2015), Lisbon, Portugal, 2015.
 
