@@ -82,11 +82,13 @@ ___
 
 https://www.linkedin.com/in/marianaalmeida/
 
-<text>marianascalmeida @ gmail.com</text>
+marianascalmeida @ gmail.com
 
-[mariana@cleverly.ai]
+mariana @ cleverly.ai
 
-khlkjk
- pjl çkl 
- 
- lkj k l j
+<!--- 
+https://stackoverflow.com/questions/37413679/how-to-add-a-linkedin-link-to-jekyll-pages-on-github
+https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/README.md
+https://github.com/carlsednaoui/gitsocial
+-->
+
