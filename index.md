@@ -120,9 +120,26 @@ ___
 
 ## Conferences
 
+* Bernardo Branco, Pedro Abreu, Ana Sofia Gomes, **Mariana S. C. Almeida**, João Tiago Ascensão, Pedro Bizarro
+<br> "[Interleaved Sequence RNNs for Fraud Detection](https://arxiv.org/pdf/2002.05988.pdf),"
+<br> ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2020, Applied Data Science Track KDD ’20, 2020.
+
+* Afonso Mendes, David Nogueira, Samuel Broscheit, Filipe Aleixo, [Pedro Balage](http://www.pedrobalage.com/), Rui Martins, Sebastião Miranda and **Mariana S. C. Almeida**,
+<br> [SUMMA at TAC Knowledge Base Population Task 2017,](https://tac.nist.gov/publications/2017/participant.papers/TAC2017.SUMMA.proceedings.pdf) 
+<br> Proceedings of the Text Analysis Conference (TAC) KBP 2017, National Institute of Standards and Technology, Gaithersburg, Maryland USA, 2018.
+
+* Renars Liepins, Ulrich Germann, Guntis Barzdins, Alexandra Birch, Steve Renals, Susanne Weber, Peggy van der Kreeft, Herve Bourlard, João Prieto, Ondrej Klejch, Peter Bell, Alexandros Lazaridis, Alfonso Mendes, Sebastian Riedel, **Mariana S. C. Almeida**, [Pedro Balage](http://www.pedrobalage.com/), [Shay B. Cohen](http://homepages.inf.ed.ac.uk/scohen/), Tomasz Dwojak, Philip N. Garner, Andreas Giefer, Marcin Junczys-Dowmunt, Hina Imran, David Nogueira, Ahmed Ali, Sebastião Miranda, Andrei Popescu-Belis, Lesly Miculicich Werlen, Nikos Papasarantopoulos, Abiola Obamuyide, Clive Jones, Fahim Dalvi, [Andreas Vlachos](https://andreasvlachos.github.io/), Yang Wang, Sibo Tong, Rico Sennrich, Nikolaos Pappas, Shashi Narayan, Marco Damonte, Nadir Durrani, Sameer Khurana, Ahmed Abdelali, Hassan Sajjad, Stephan Vogel, David Sheppey, Chris Hernon, 
+<br> "The SUMMA Platform Prototype,"
+<br> Proceedings of the EACL 2017 Software Demonstrations, Valencia, Spain, April 3-7 2017, pages 116–119.
+
+* Peteris Paikens, Guntis Barzdins, Afonso Mendes, [Daniel C. Ferreira](https://dcferreira.com/), Samuel Broscheit, **Mariana S. C. Almeida**, Sebastião Miranda, David Nogueira, [Pedro Balage](http://www.pedrobalage.com/), [André F. T. Martins](https://andre-martins.github.io/),
+<br> "[SUMMA at TAC Knowledge Base Population Task 2016](https://tac.nist.gov/publications/2016/participant.papers/TAC2016.summa.proceedings.pdf)," 
+<br> Proceedings of the Text Analysis Conference (TAC) KBP 2016, National Institute of Standards and Technology, Gaithersburg, Maryland USA, 2017.
+
 * [Daniel C. Ferreira](https://dcferreira.com/), [André F. T. Martins](https://andre-martins.github.io/), and **Mariana S. C. Almeida**,
 <br> "[Jointly Learning to Embed and Predict with Multiple Languages](https://www.aclweb.org/anthology/P16-1190.pdf),"
 <br> Annual Meeting of the Association for Computational Linguistics (ACL'16), Berlin, Germany, August 2016
+<br> [[Code](https://github.com/dcferreira/multilingual-joint-embeddings/)]
 
 * **M. S. C. Almeida**, C. Pinto, H. Figueira, P. Mendes, and [André F. T. Martins](https://andre-martins.github.io/),
 <br> "[Aligning Opinions: Cross-Lingual Opinion Mining with Dependencies](doduments/acl2015_dom)," 
