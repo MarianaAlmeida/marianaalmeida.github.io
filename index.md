@@ -3,19 +3,21 @@
 <table><tr><td>
 </td></tr></table>
 <kbd></kbd>
+https://github.com/fefong/markdown_readme/blob/master/README.md
+https://raw.githubusercontent.com/fefong/markdown_readme/master/README.md
+https://www.markdownguide.org/basic-syntax#headings
+[a relative link](another-page.md)
 -->
 
 <img align="left" src="images/mla.jpg" width="170"> 
 
 <br>
 
-<p>
-  &nbsp; <img align="center" src="images/CleverlyLogo.png" width="300"> 
-</p>
+&nbsp; &nbsp; <img align="center" src="images/CleverlyLogo.png" width="300"> 
 
 <br>
 
-  &nbsp; [**News**](#news)  &nbsp;  [**Degrees**](#Degrees)  &nbsp; [**Awards**](#Awards) &nbsp; [**Publications**](#publications) &nbsp; [**Contacts**](#contacts)
+  &nbsp;&nbsp; [**News**](#news)  &nbsp;  [**Degrees**](#Degrees)  &nbsp; [**Awards**](#Awards) &nbsp; [**Publications**](#publications) &nbsp; [**Contacts**](#contacts)
 
 <br>
 
