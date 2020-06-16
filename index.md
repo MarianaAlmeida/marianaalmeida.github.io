@@ -10,14 +10,12 @@
 <br>
 
 <p>
-<img align="center" src="images/CleverlyLogo.png" width="300"> 
+  &nbsp; <img align="center" src="images/CleverlyLogo.png" width="300"> 
 </p>
 
 <br>
 
-<p>
-[**News**](#news)  &nbsp;  [**Degrees**](#Degrees)  &nbsp; [**Awards**](#Awards) &nbsp; [**Publications**](#publications) &nbsp; [**Contacts**](#contacts)
-</p>
+  &nbsp; [**News**](#news)  &nbsp;  [**Degrees**](#Degrees)  &nbsp; [**Awards**](#Awards) &nbsp; [**Publications**](#publications) &nbsp; [**Contacts**](#contacts)
 
 <br>
 
@@ -56,6 +54,3 @@ Until 2013 I mostly worked on image processing in academia. I was a Postdoc fell
 
 # Contacts
 
-
- ___
- 
