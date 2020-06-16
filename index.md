@@ -11,11 +11,11 @@
 
 <p>
 <img align="center" src="images/CleverlyLogo.png" width="300"> 
-</p>
 
 <br>
 
 [**News**](#news)  &nbsp;  [**Degrees**](#Degrees)  &nbsp; [**Awards**](#Awards) &nbsp; [**Publications**](#publications) &nbsp; [**Contacts**](#contacts)
+</p>
 
 <br>
 
