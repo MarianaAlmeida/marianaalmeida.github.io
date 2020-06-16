@@ -48,7 +48,7 @@ ___
 
 # News 
 
-* **Hiring:** [Cleverly](https://cleverly.ai/) got a european **SME Innovation Associate** grant to hire a PhD in NLP or a Reaseracher with equivalent experience for one year. If you are interested, see more detials here or contact me!
+* **Hiring:** [Cleverly](https://cleverly.ai/) got a european **SME Innovation Associate** grant to hire a PhD in NLP or a Reaseracher with equivalent experience for one year. If you are interested, see more details here or contact me!
 
 * I am co-organizing [LxMLS 2020](http://lxmls.it.pt/2020/). This year it will be a **fully virtual on-line school**.
 
