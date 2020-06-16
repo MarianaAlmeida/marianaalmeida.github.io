@@ -5,7 +5,7 @@
 <kbd></kbd>
 -->
 
-<img align="left" src="images/mla3.jpg" width="180"> 
+<img align="left" src="images/mla3.jpeg" width="180"> 
 <img align="center" src="images/CleverlyLogo.png" width="300"> 
 
 
