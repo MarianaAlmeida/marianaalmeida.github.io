@@ -83,6 +83,7 @@ ___
 https://www.linkedin.com/in/marianaalmeida/
 
 marianascalmeida@gmail.com
+
 mariana@cleverly.ai
 
 
