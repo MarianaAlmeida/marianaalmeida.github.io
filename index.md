@@ -12,9 +12,8 @@
 
 <br>
 
-<pre>
-[**News**](#news)   [**Publications**](#publications)
-</pre>
+
+[**News**](#news)  &nbsp; [**Publications**](#publications)
 
 
 <!---  
