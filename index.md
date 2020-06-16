@@ -116,7 +116,7 @@ ___
 * **M. S. C. Almeida** and [L. B. Almeida](http://www.lx.it.pt/~lbalmeida/),
 <br> "[Wavelet-based separation of nonlinear show-through and bleed-through image mixtures](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_Den_Neurocomp08.pdf)," 
 <br> Neurocomputing, Vol. 72, pp. 57-70, December, 2008.
-<br> [[Abstract, data and  MATLAB Code](http://www.lx.it.pt/~mscla/Wavelet%20Separation%20-%20Nerucomputing08.htm)]
+<br> [[Abstract, data and  MATLAB code](http://www.lx.it.pt/~mscla/Wavelet%20Separation%20-%20Nerucomputing08.htm)]
 
 ## Conferences
 
@@ -131,13 +131,13 @@ ___
 * **Mariana S. C. Almeida** and [André F. T. Martins](https://andre-martins.github.io/),
 <br> "[Lisbon: Evaluating TurboSemanticParser on Multiple Languages and Out-of-Domain Data](documents/semeval2015_task18.pdf),"
 <br> Proceedings of International Workshop on Semantic Evaluation (SemEval'15), task 18: Broad Coverage Semantic Dependency Parsing, Denver, USA, June 2015.
-<br> [[code](http://labs.priberam.com/Resources/TurboSemanticParser.aspx)]
+<br> [[Code](http://labs.priberam.com/Resources/TurboSemanticParser.aspx)]
 
 
 * [André F. T. Martins](https://andre-martins.github.io/) and **Mariana S. C. Almeida**,
 <br> "[Priberam: A Turbo Semantic Parser with Second Order Features](documents/semeval2014_task8),"
 <br> Proceedings of International Workshop on Semantic Evaluation (SemEval'14), task 8: Broad Coverage Semantic Dependency Parsing, Dublin, Ireland, August 2014.
-<br> [[code](http://labs.priberam.com/Resources/TurboSemanticParser.aspx)]
+<br> [[Code](http://labs.priberam.com/Resources/TurboSemanticParser.aspx)]
 <br> **Best system of the shared task**
 
 
