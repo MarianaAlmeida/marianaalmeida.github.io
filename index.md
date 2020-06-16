@@ -6,7 +6,7 @@
 
 
 <img align="left" src="images/mla.jpg" width="170" padding="10px 10px"> 
-<img align="center" src="images/CleverlyLogo.png" width="300" > 
+<img align="center" src="images/CleverlyLogo.png" width="300" padding="10px 10px"> 
 
 
 <!---  
