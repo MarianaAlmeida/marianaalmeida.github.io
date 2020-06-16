@@ -91,8 +91,10 @@ ___
 ## Journals
 
 * Teste...
-<br>
-&nbsp; &nbsp; &nbsp; ghjkl
+ fghjklç
+ 
+ 
+* &nbsp; &nbsp; &nbsp; ghjkl
 
 ## Conferences
 
