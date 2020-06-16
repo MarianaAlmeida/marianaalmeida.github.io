@@ -80,7 +80,7 @@ ___
 
 # Contacts
 
-&nbsp; [https://www.linkedin.com/in/marianaalmeida/](https://www.linkedin.com/in/marianaalmeida/)
+&nbsp;[https://www.linkedin.com/in/marianaalmeida/](https://www.linkedin.com/in/marianaalmeida/)
 
 <img align="center" src="images/emails.png" width="300"> 
 
