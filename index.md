@@ -49,6 +49,7 @@ ___
 # News 
 <!--- 
 67,208,145
+69,212,153
 https://www.ginifab.com/feeds/pms/color_picker_from_image.php
 -->
 
