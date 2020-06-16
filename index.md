@@ -2,12 +2,13 @@
 # Mariana S. C. Almeida 
 -->
 
-<img align="left" src="images/mla.jpg" width="170" box-sizing="border-box"> 
+<img align="left" src="images/mla.jpg" width="170" box-sizing="5px"> 
 <img align="center" src="images/CleverlyLogo.png" width="300" > 
 
 
 <!---  
 padding="5px"
+ box-sizing="border-box"
 ![alt text]("images/mla.jpg")
 ![alt text]("https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/images/mla.jpg")
 https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/
