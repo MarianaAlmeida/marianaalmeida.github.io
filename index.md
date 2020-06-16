@@ -35,7 +35,7 @@ https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/
 &nbsp;
 -->
 
-Since december 2019, I am Head of Research at [Cleverly](https://cleverly.ai/) in Lisbon (Portugal), where we drive NLP (Natural Language Processing) and ML (Machine Learning) to make customer support teams more efficient.
+Since december 2019, I am Head of Research at [Cleverly](https://cleverly.ai/) in Lisbon (Portugal). We drive NLP (Natural Language Processing) and ML (Machine Learning) to make customer support teams more efficient.
 
 Before that I worked as a researcher in industry for 6 years: 4 years at [Priberam Labs](http://labs.priberam.com/) where I developed ML solutions to NLP problems and 2 years at [Feedzai](https://feedzai.com/) where I worked on ML and deep learning methods for fraud prevention.
 <!--- methods to solve--> <!--- problems -->
@@ -57,6 +57,14 @@ ___
 ___
 
 # Degrees 
+
+
+* PhD in Electrical and Computer Engineer (2010) from Instituto Superior Técnico (IST), Technical University of Lisbon (UTL).
+PhD Thesis: "Blind separation and blind deblurring of natural images", October, 2010.  (PDF)
+
+* Five year degree in Electrical and Computer Engineer (2005) from Instituto Superior Técnico (IST), Technical University of Lisbon (UTL).
+Final Project: "Extensions to Denoising Source Separation ", Neural Networks Research Center of the Helsinki University of Technology (HUT); Instituto Superior Técnico (IST), October, 2005. (PDF)
+
 
 # Awards 
 
