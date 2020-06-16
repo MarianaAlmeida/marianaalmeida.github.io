@@ -87,7 +87,7 @@ ___
 
 &nbsp; [<img align="center" src="images/linkedin_logo.svg" width="30">](https://www.linkedin.com/in/marianaalmeida/)
 &nbsp; [<img align="center" src="images/scholar_logo2.png" width="28">](https://scholar.google.com/citations?user=1_U5zugAAAAJ&hl=en&authuser=1&oi=sra)
-&nbsp; [<img align="center" src="images/scholar_logo4.png" width="30">](https://scholar.google.com/citations?user=1_U5zugAAAAJ&hl=en&authuser=1&oi=sra)
+&nbsp; [<img align="center" src="images/scholar_logo4.jpg" width="30">](https://scholar.google.com/citations?user=1_U5zugAAAAJ&hl=en&authuser=1&oi=sra)
 
 
 <!--- 
