@@ -12,7 +12,7 @@
 
 <br>
 
-[News](#news)  [Publications](#publications)
+[*News*](#news)  [Publications](#publications)
 
 
 <!---  
@@ -40,7 +40,6 @@ Until 2013 I mostly worked on image processing in academia. I was a Postdoc fell
 <!--- , at [IT](https://www.it.pt/) of Lisbon, Portugal.-->
 
  ___
-..
 
 # News 
 
