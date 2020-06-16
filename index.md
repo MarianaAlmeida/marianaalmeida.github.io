@@ -48,7 +48,7 @@ ___
 
 # News 
 
-* [Cleverly](https://cleverly.ai/) got a european SME Innovation Associate grant to hire a PhD or a Reaseracher with equivalent experient experience. If you are interested, see more detials here or contact me.
+* [Cleverly](https://cleverly.ai/) got a european SME Innovation Associate grant to hire a PhD or a Reaseracher with equivalent experient experience for one year. If you are interested, see more detials here or contact me.
 
 * I am co-organizing the [LxMLS 2020](http://lxmls.it.pt/2020/) that this year is going to be a fully virtual on-line school.
 
