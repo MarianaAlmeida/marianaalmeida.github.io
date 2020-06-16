@@ -72,8 +72,11 @@ Final Project: "Extensions to Denoising Source Separation," Neural Networks Rese
 
 * [Prémio Prof. Luís Vidigal 2004/2005](http://premio-vidigal.inesc.pt/), for her final project on on extensions to denoising source separation.
 
+___
 
 # Publications
+
+___
 
 # Contacts
 
