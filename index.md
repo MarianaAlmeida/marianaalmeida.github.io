@@ -6,6 +6,9 @@
 -->
 
 <img align="left" src="images/mla.jpg" width="170"> 
+
+<br>
+
 <p>
 <img align="center" src="images/CleverlyLogo.png" width="300"> 
 </p>
@@ -29,8 +32,6 @@ padding-right
 https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/
 &nbsp;
 -->
-
-<br>
 
 Since december 2019, I am Head of Research at [Cleverly](https://cleverly.ai/) in Lisbon, Portugal,where we drive NLP (Natural Language Processing) and ML (Machine Learning) to help customer support teams becoming more efficient.
 
