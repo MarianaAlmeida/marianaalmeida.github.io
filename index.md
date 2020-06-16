@@ -13,7 +13,7 @@ https://www.markdownguide.org/basic-syntax#headings
 
 <br>
 
- &nbsp; &nbsp; &nbsp; <img align="center" src="images/CleverlyLogo.png" width="300">   !!
+ &nbsp; &nbsp; &nbsp; <img align="center" src="images/CleverlyLogo.png" width="300">  
 
 <br>
 
