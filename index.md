@@ -12,7 +12,9 @@
 
 <br>
 
-[**News**](#news)  &nbsp;  [**Degrees**](#Degrees)  &nbsp; [**Awards**](#Awards) &nbsp;   [**Publications**](#publications)
+[**News**](#news)  &nbsp;  [**Degrees**](#Degrees)  &nbsp; [**Awards**](#Awards) &nbsp; [**Publications**](#publications) &nbsp; [**Contacts**](#contacts)
+
+<br>
 
 <!---  
 boarder="100px solid blue" width="180" padding="200px" margin="20px"
@@ -38,19 +40,18 @@ Until 2013 I mostly worked on image processing in academia. I was a Postdoc fell
 
 <!--- , at [IT](https://www.it.pt/) of Lisbon, Portugal.-->
 
- ___
 
 # News 
 
- ___
 
 # Degrees 
 
 # Awards 
 
- ___
 
 # Publications
+
+# Contacts
 
 
  ___
