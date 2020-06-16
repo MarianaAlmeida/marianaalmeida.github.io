@@ -52,7 +52,7 @@ ___
 
 * I am co-organizing the [LxMLS 2020](http://lxmls.it.pt/2020/) that this year is going to be a fully virtual on-line school.
 
-* In december 2019, I joined [Cleverly](https://cleverly.ai/) to help driving AI make customer support teams becoming more efficient.
+* In december 2019, I joined [Cleverly](https://cleverly.ai/) to help building driving AI-driven solutions to make customer support teams more efficient.
 
 ___
 
