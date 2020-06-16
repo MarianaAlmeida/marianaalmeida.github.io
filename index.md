@@ -13,11 +13,11 @@ https://www.markdownguide.org/basic-syntax#headings
 
 <br>
 
-&nbsp; &nbsp; <img align="center" src="images/CleverlyLogo.png" width="300"> 
+ &nbsp; &nbsp; &nbsp; <img align="center" src="images/CleverlyLogo.png" width="300"> 
 
 <br>
 
-  &nbsp;&nbsp; [**News**](#news)  &nbsp;  [**Degrees**](#degrees)  &nbsp; [**Awards**](#awards) &nbsp; [**Publications**](#publications) &nbsp; [**Contacts**](#contacts)
+ &nbsp; &nbsp; &nbsp; [**News**](#news)  &nbsp;  [**Degrees**](#degrees)  &nbsp; [**Awards**](#awards) &nbsp; [**Publications**](#publications) &nbsp; [**Contacts**](#contacts)
 
 <br>
 
