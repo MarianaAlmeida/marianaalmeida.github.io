@@ -81,8 +81,7 @@ ___
 # Contacts
 
 
-[<img align="center" src="images/linkedin_logo.svg" width="40">](https://www.linkedin.com/in/marianaalmeida/)
-
+[<img align="center" src="images/linkedin_logo.svg" width="100">](https://www.linkedin.com/in/marianaalmeida/)
 <img align="center" src="images/emails.png" width="300"> 
 
 
