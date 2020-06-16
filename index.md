@@ -2,8 +2,9 @@
 # Mariana S. C. Almeida 
 -->
 
-
+<table><tr><td>
 <img align="left" src="images/mla.jpg" width="180" padding="20px" margin="20px"> 
+</td></tr></table>
 <img align="center" src="images/CleverlyLogo.png" width="300"> 
 
 
