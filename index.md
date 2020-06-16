@@ -82,8 +82,11 @@ ___
 
 https://www.linkedin.com/in/marianaalmeida/
 
-[marianascalmeida@gmail.com]()
+[marianascalmeida@gmail.com]
 
-<a>mariana@cleverly.ai</a>
+[mariana@cleverly.ai]
 
-
+khlkjk
+ pjl çkl 
+ 
+ lkj k l j
