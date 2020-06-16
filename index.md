@@ -95,12 +95,22 @@ ___
 <br> IEEE Trans. Image Processing, vol. 22, No. 8, pp. 3074-3086, 2013. 
 <br> [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/ADMM_UBC.htm)]
 
-* **M. S. C. Almeida**and [M. A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
+* **M. S. C. Almeida** and [M. A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
 <br> "[Stopping Criteria for Iterative Blind and Non-Blind Image Deblurring Algorithms Based on Residual Whiteness Measures](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_Figueiredo_TIP2013_WhitenessMeasures.pdf)," 
 <br> IEEE Trans Image Processing, vol. 22, nº7, pp.2751-63, 2013.
 <br> [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/WhitenessMeasures.htm)]
 
-*
+* **M. S. C. Almeida** and [L. B. Almeida](http://www.lx.it.pt/~lbalmeida/),
+<br> "[Nonlinear saparation of a show-through mixing model using a physical model trained with ICA].(https://www.sciencedirect.com/science/article/abs/pii/S0165168411003409),"
+<br> Signal Processing, Vol 92, issue 4, pp. 872-884, April, 2012. 
+<br> [[Abtract, Bi-affine separability and data](http://www.lx.it.pt/~mscla/Bi-affine%20Model%20Separation%20-%20Signal%20Processing%2012.htm)]
+
+* **M. S. C. Almeida** and L. B. Almeida, 
+<br> "[Blind and Semi-Blind Deblurring of Natural Images].(https://ieeexplore.ieee.org/document/5226594)," 
+<br> IEEE Trans. Image Processing, Vol.19, pp. 36-52, January, 2010. 
+<br> [[Abstract and MATLAB code].(http://www.lx.it.pt/~mscla/BID_NI_UBC.htm)]
+<br> **In the Top 10 most accessed articles of IEEE Trans. Image Processing on March 2010**
+<br> **In the Top 100 IEEE most accessed articles during the months of January, February and March 2010**
 
 ## Conferences
 
