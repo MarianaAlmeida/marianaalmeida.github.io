@@ -2,10 +2,8 @@
 # Mariana S. C. Almeida 
 -->
 
-# Mariana S. C. Almeida 
 
-
-<img align="left" src="images/mla.jpg" width="170" padding="10px 10px"> 
+<img align="left" src="images/mla.jpg" width="170" margin="10px 10px"> 
 <img align="center" src="images/CleverlyLogo.png" width="300" padding="10px 10px"> 
 
 
