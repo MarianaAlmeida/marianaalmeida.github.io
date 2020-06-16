@@ -5,8 +5,8 @@
 <kbd></kbd>
 -->
 
-<img align="left" src="images/mla_20px_transp.png" width="180"> 
-<img align="center" src="images/CleverlyLogo.png" width="300"> 
+<img align="left" src="images/mla.jpg" width="180"> 
+<img align="center" src="images/cleverly_logo_20px.png" width="300"> 
 
 
 <!---  
