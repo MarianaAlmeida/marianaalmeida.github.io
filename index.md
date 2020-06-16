@@ -48,12 +48,12 @@ ___
 
 # News 
 <!--- 
-67,208,145
+7,48,66
 69,212,153
 https://www.ginifab.com/feeds/pms/color_picker_from_image.php
 -->
 
-* <span style="color:rgb(32,197,121)">**Hiring:**</span> [Cleverly](https://cleverly.ai/) got a european **SME Innovation Associate** grant to hire a PhD in NLP or a Reaseracher with equivalent experience for one year. If you are interested, see more details here or [contact me](#contacts)!
+* <span style="color:rgb(69,212,153)">**Hiring:**</span> [Cleverly](https://cleverly.ai/) got a european **SME Innovation Associate** grant to hire a PhD in NLP or a Reaseracher with equivalent experience for one year. If you are interested, see more details here or [contact me](#contacts)!
 
 * I am co-organizing [LxMLS 2020](http://lxmls.it.pt/2020/). This year LxMLS will be a **fully virtual on-line school**.
 
