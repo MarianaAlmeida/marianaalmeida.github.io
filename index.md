@@ -84,7 +84,7 @@ ___
 
 ## Patents
 
-* National Patent: “Processo de focagem cega de imagens”, BPI: 246/2009, 2009.
+* National Patent: "Processo de focagem cega de imagens," BPI: 246/2009, 2009.
 
 ## Journals
 
