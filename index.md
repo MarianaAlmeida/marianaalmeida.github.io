@@ -35,7 +35,7 @@ https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/
 &nbsp;
 -->
 
-Since december 2019, I am Head of Research at [Cleverly](https://cleverly.ai/) in Lisbon, Portugal. We drive NLP (Natural Language Processing) and ML (Machine Learning) to make customer support teams more efficients.
+Since december 2019, I am Head of Research at [Cleverly](https://cleverly.ai/) in Lisbon, Portugal. We drive NLP (Natural Language Processing) and ML (Machine Learning) to make customer support teams more efficient.
 
 Before that I worked as a researcher in industry for 6 years: 4 years at [Priberam Labs](http://labs.priberam.com/) where I explored ML and NLP methods and 2 years at [Feedzai](https://feedzai.com/) where I worked on ML and deep learning methods for fraud prevention.
 <!--- methods to solve--> <!--- problems -->
@@ -60,7 +60,7 @@ style="font-size: 250%"
 
 * I am co-organizing [LxMLS 2020](http://lxmls.it.pt/2020/). This year LxMLS will be a **fully on-line school**.
 
-* In december 2019 I joined [Cleverly](https://cleverly.ai/) :-) We are building AI-driven solutions that make customer support teams more efficients!
+* In december 2019 I joined [Cleverly](https://cleverly.ai/) :-) We are building AI-driven solutions that make customer support teams more efficient!
 
 ___
 
@@ -100,9 +100,9 @@ ___
 <br> [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/WhitenessMeasures.htm)]
 
 * **Mariana S. C. Almeida** and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/),
-<br> "[Nonlinear saparation of a show-through mixing model using a physical model trained with ICA](https://www.sciencedirect.com/science/article/abs/pii/S0165168411003409),"
+<br> "[Nonlinear separation of a show-through mixing model using a physical model trained with ICA](https://www.sciencedirect.com/science/article/abs/pii/S0165168411003409),"
 <br> Signal Processing, Vol 92, issue 4, pp. 872-884, April, 2012. 
-<br> [[Abtract, Bi-affine separability and data](http://www.lx.it.pt/~mscla/Bi-affine%20Model%20Separation%20-%20Signal%20Processing%2012.htm)]
+<br> [[Abstract, Bi-affine separability and data](http://www.lx.it.pt/~mscla/Bi-affine%20Model%20Separation%20-%20Signal%20Processing%2012.htm)]
 
 * **Mariana S. C. Almeida** and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/), 
 <br> "[Blind and Semi-Blind Deblurring of Natural Images](https://ieeexplore.ieee.org/document/5226594)," 
