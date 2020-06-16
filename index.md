@@ -5,11 +5,12 @@
 <kbd></kbd>
 -->
 
-<img align="left" src="images/mla.jpg" boarder="100px solid blue" width="180" padding="200px" margin="20px"> 
+<img align="left" src="images/mla3.jpg" width="180"> 
 <img align="center" src="images/CleverlyLogo.png" width="300"> 
 
 
 <!---  
+boarder="100px solid blue" width="180" padding="200px" margin="20px"
 padding="5px"
 0 10px
 margin:20px 30px
