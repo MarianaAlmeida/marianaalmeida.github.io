@@ -200,7 +200,8 @@ IEEE International Conference on Image Processing – ICIP’2012, 30 Set. – 3
 <br> [[Poster](http://www.lx.it.pt/~mscla/MA_pdfs/Poster_Almeida_ICASSP08_Deblurring.pdf)] [[MATLAB code](http://www.lx.it.pt/~mscla/BID_NI_UBC.htm)]
 
 * **Mariana S. C. Almeida** and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/), 
-<br> "[Separating Nonlinear Image Mixtures Using a Physical Model Trained with ICA](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_MLSP06_Model.pdf),"
+<br> "[Separating Nonlinear Image Mixtures Using a
+Physical Model Trained with ICA](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_MLSP06_Model.pdf),"
 <br> Proc. IEEE Int. Worksh. Machine Learning for Signal Processing 2006 – MLSP’2006, Maynooth, Ireland, Vol.1, pp. 65 – 70, September, 2006. 
 
 * **Mariana S. C. Almeida** and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/), 
