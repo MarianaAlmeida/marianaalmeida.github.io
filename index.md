@@ -10,7 +10,7 @@
 <img align="center" src="images/CleverlyLogo.png" width="300"> 
 </p>
 
-[Go to Heading section] ("# This is a heading")
+[Go to Heading section] ("#This is a heading")
 
 <!---  
 boarder="100px solid blue" width="180" padding="200px" margin="20px"
