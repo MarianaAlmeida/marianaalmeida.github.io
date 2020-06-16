@@ -93,7 +93,7 @@ ___
 * **M. S. C. Almeida** and [M. A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
 <br> "[Deconvolving images with unknown boundaries using the alternating direction method of multipliers](http://arxiv.org/abs/1210.2687)," 
 <br> IEEE Trans. Image Processing, vol. 22, No. 8, pp. 3074-3086, 2013. 
-<br> [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/WhitenessMeasures.htm)]
+<br> [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/ADMM_UBC.htm)]
 
 * **M. S. C. Almeida**and [M. A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
 <br> "[Stopping Criteria for Iterative Blind and Non-Blind Image Deblurring Algorithms Based on Residual Whiteness Measures](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_Figueiredo_TIP2013_WhitenessMeasures.pdf)," 
