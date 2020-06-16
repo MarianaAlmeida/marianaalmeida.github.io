@@ -105,16 +105,24 @@ ___
 <br> Signal Processing, Vol 92, issue 4, pp. 872-884, April, 2012. 
 <br> [[Abtract, Bi-affine separability and data](http://www.lx.it.pt/~mscla/Bi-affine%20Model%20Separation%20-%20Signal%20Processing%2012.htm)]
 
-* **M. S. C. Almeida** and L. B. Almeida, 
+* **M. S. C. Almeida** and [L. B. Almeida](http://www.lx.it.pt/~lbalmeida/), 
 <br> "[Blind and Semi-Blind Deblurring of Natural Images].(https://ieeexplore.ieee.org/document/5226594)," 
 <br> IEEE Trans. Image Processing, Vol.19, pp. 36-52, January, 2010. 
-<br> [[Abstract and MATLAB code].(http://www.lx.it.pt/~mscla/BID_NI_UBC.htm)]
+<br> [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/BID_NI_UBC.htm)]
 <br> **In the Top 10 most accessed articles of IEEE Trans. Image Processing on March 2010**
 <br> **In the Top 100 IEEE most accessed articles during the months of January, February and March 2010**
 
+
+* **M. S. C. Almeida** and [L. B. Almeida](http://www.lx.it.pt/~lbalmeida/),
+<br> "[Wavelet-based separation of nonlinear show-through and bleed-through image mixtures](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_Den_Neurocomp08.pdf)," 
+<br> Neurocomputing, Vol. 72, pp. 57-70, December, 2008.  
+<br> [[Abstract, data and  MATLAB Code](http://www.lx.it.pt/~mscla/Wavelet%20Separation%20-%20Nerucomputing08.htm)]
+
 ## Conferences
 
-*
+* **M. S. C. Almeida**, C. Pinto, H. Figueira, P. Mendes, and A. F. T. Martins,
+<br> "Aligning Opinions: Cross-Lingual Opinion Mining with Dependencies." 
+<br> Annual Meeting of the Association for Computational Linguistics (ACL'15), Beijing, China, July 2015. 
 
 ___
 
