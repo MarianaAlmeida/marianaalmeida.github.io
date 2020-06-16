@@ -80,15 +80,14 @@ ___
 
 # Contacts
 
-[https://www.linkedin.com/in/marianaalmeida/](https://www.linkedin.com/in/marianaalmeida/)
+&nbsp; [https://www.linkedin.com/in/marianaalmeida/](https://www.linkedin.com/in/marianaalmeida/)
 
 <img align="center" src="images/emails.png" width="300"> 
 
-marianascalmeida @ gmail.com
-
-mariana @ cleverly.ai
 
 <!--- 
+marianascalmeida @ gmail.com
+mariana @ cleverly.ai
 https://stackoverflow.com/questions/37413679/how-to-add-a-linkedin-link-to-jekyll-pages-on-github
 https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/README.md
 https://github.com/carlsednaoui/gitsocial
