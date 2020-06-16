@@ -40,7 +40,7 @@ Since december 2019, I am Head of Research at [Cleverly](https://cleverly.ai/) i
 Before that I worked as a researcher in industry for 6 years: 4 years at [Priberam Labs](http://labs.priberam.com/) where I explored ML and NLP methods and 2 years at [Feedzai](https://feedzai.com/) where I worked on ML and deep learning methods for fraud prevention.
 <!--- methods to solve--> <!--- problems -->
 
-Until 2013 I mostly worked on image processing in academia. I was a Postdoc fellow at [IT](https://www.it.pt/) of Lisbon, working on image reconstruction under the supervision of [Mário A. T. Figueiredo](http://www.lx.it.pt/~mtf/). And my PhD was in the field of blind image separation and blind deconvolution, under the supervision of [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/)
+Until 2013 I mostly worked on image processing in academia. I was a Postdoc fellow at [IT](https://www.it.pt/) of Lisbon, working on image reconstruction and optimization under the supervision of [Mário A. T. Figueiredo](http://www.lx.it.pt/~mtf/). And my PhD was in the field of blind image separation and blind deconvolution, under the supervision of [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/)
 
 <!--- , at [IT](https://www.it.pt/) of Lisbon, Portugal.-->
 
@@ -48,11 +48,11 @@ ___
 
 # News 
 
-* <span style="color:blue">some *blue* text</span>
+* <span style="color:red">some **Hiring:** text</span>
 
 * **Hiring:** [Cleverly](https://cleverly.ai/) got a european **SME Innovation Associate** grant to hire a PhD in NLP or a Reaseracher with equivalent experience for one year. If you are interested, see more details here or [contact me](#contacts)!
 
-* I am co-organizing [LxMLS 2020](http://lxmls.it.pt/2020/). This year it will be a **fully virtual on-line school**.
+* I am co-organizing [LxMLS 2020](http://lxmls.it.pt/2020/). This year LxMLS will be a **fully virtual on-line school**.
 
 * In december 2019 I joined [Cleverly](https://cleverly.ai/) :-) We are building AI-driven solutions that make customer support teams more efficients!
 
@@ -62,6 +62,7 @@ ___
 
 
 * PhD in Electrical and Computer Engineer (2010) from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)  (IST), [Universidade de Lisboa](https://www.ulisboa.pt/) (ULisboa).
+
 PhD Thesis: "Blind separation and blind deblurring of natural images," October, 2010.  ([PDF](http://www.lx.it.pt/~mscla/MA_pdfs/PhDThesis_MarianaAlmeida2010.pdf))
 
 * Five year degree in Electrical and Computer Engineer (2005) from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)  (IST), [Universidade de Lisboa](https://www.ulisboa.pt/) (ULisboa).
