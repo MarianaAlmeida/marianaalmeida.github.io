@@ -82,6 +82,8 @@ ___
 
 [https://www.linkedin.com/in/marianaalmeida/](https://www.linkedin.com/in/marianaalmeida/)
 
+<img align="center" src="images/emails.png" width="200"> 
+
 marianascalmeida @ gmail.com
 
 mariana @ cleverly.ai
