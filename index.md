@@ -3,7 +3,7 @@
 -->
 
 
-<img align="left" src="images/mla.jpg" width="170" padding="20"> 
+<img align="left" src="images/mla.jpg" width="170" padding="20" margin="20"> 
 <img align="center" src="images/CleverlyLogo.png" width="300"> 
 
 
