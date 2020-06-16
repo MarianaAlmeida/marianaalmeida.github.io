@@ -134,6 +134,13 @@ ___
 [[code](http://labs.priberam.com/Resources/TurboSemanticParser.aspx)]
 
 
+semeval2014_task8
+
+eacl2014
+
+lrec2014
+
+
 ___
 
 # Contacts
