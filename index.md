@@ -2,11 +2,10 @@
 # Mariana S. C. Almeida 
 <table><tr><td>
 </td></tr></table>
+<kbd></kbd>
 -->
 
-<kbd>
- <img align="left" src="images/mla.jpg" width="180" padding="200px" margin="20px"> 
-</kbd>
+<img align="left" src="images/mla.jpg" boarder="1px solid blue" width="180" padding="200px" margin="20px"> 
 <img align="center" src="images/CleverlyLogo.png" width="300"> 
 
 
