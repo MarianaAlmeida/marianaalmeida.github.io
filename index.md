@@ -56,7 +56,7 @@ style="font-size: 250%"
 
 -->
 
-* <span style="color:rgb(182,0,59)";"font-size: 110%">**Hiring:**</span> [Cleverly](https://cleverly.ai/) got a european **SME Innovation Associate** grant to hire a PhD in NLP or a Reaseracher with equivalent experience for one year. If you are interested, see more details here or [contact me](#contacts)!
+* <span style="color:rgb(182,0,59)">**Hiring:**</span> &nbsp;[Cleverly](https://cleverly.ai/) got a european **SME Innovation Associate** grant to hire a PhD in NLP or a Reaseracher with equivalent experience for one year. If you are interested, see more details here or [contact me](#contacts)!
 
 * I am co-organizing [LxMLS 2020](http://lxmls.it.pt/2020/). This year LxMLS will be a **fully virtual on-line school**.
 
@@ -89,6 +89,10 @@ ___
 * National Patent: "Processo de focagem cega de imagens," BPI: 246/2009, 2009.
 
 ## Journals
+
+* **M. S. C. Almeida** and M. A. T. Figueiredo, 
+<br> “Deconvolving images with unknown boundaries using the alternating direction method of multipliers”, IEEE Trans. Image Processing, vol. 22, No. 8, pp. 3074-3086, 2013. 
+<br> [[PDF](http://arxiv.org/abs/1210.2687)] [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/WhitenessMeasures.htm)].
 
 * Teste... gfdc<br> 
  tyrdfbh hrtergf <br> hgref efeg r
