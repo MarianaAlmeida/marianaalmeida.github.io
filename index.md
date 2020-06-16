@@ -12,6 +12,9 @@
 <!---  
 padding="5px"
 0 10px
+margin:20px 30px
+padding-left
+padding-right
  box-sizing="border-box"
 ![alt text]("images/mla.jpg")
 ![alt text]("https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/images/mla.jpg")
