@@ -210,7 +210,7 @@ Physical Model Trained with ICA](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_MLSP
 * **Mariana S. C. Almeida**, [Harri Valpola](https://lifeboat.com/ex/bios.harri.valpola) and Jaakko Särelä, 
 <br> "[Separation of a Nonlinear Image Mixtures by Denoising Source Separation](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_ICA06_NonlinearDSS.pdf)," 
 <br> Proc. of the 6th International Conference on Independent Component Analysis and Blind Signal Separation – ICA’2006, Charleston, S.C., USA, pp. 8-15, 2006. 
-<br> [[Poster](http://www.lx.it.pt/~mscla/MA_pdfs/Poster_Almeida_ICA06_NonLinearDSS.bmp)] [Abstract, data and MATLAB code](http://www.lx.it.pt/~mscla/Wavelet%20Separation%20-%20Nerucomputing08.htm)
+<br> [[Poster](http://www.lx.it.pt/~mscla/MA_pdfs/Poster_Almeida_ICA06_NonLinearDSS.bmp)] [[Abstract, data and MATLAB code](http://www.lx.it.pt/~mscla/Wavelet%20Separation%20-%20Nerucomputing08.htm)]
 
 
 ___
