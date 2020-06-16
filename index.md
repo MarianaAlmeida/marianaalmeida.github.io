@@ -91,8 +91,7 @@ ___
 ## Journals
 
 * Teste... gfdc
- tyrdfbh hrtergf
- hgref efeg r
+ tyrdfbh hrtergf hgref efeg r
 
  fghjklç
  
