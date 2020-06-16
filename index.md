@@ -121,7 +121,7 @@ ___
 ## Conferences
 
 * **M. S. C. Almeida**, C. Pinto, H. Figueira, P. Mendes, and A. F. T. Martins,
-<br> "Aligning Opinions: Cross-Lingual Opinion Mining with Dependencies." 
+<br> "[Aligning Opinions: Cross-Lingual Opinion Mining with Dependencies](documents/acl2015_dom.pdf)." 
 <br> Annual Meeting of the Association for Computational Linguistics (ACL'15), Beijing, China, July 2015. 
 
 ___
