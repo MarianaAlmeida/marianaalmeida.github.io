@@ -1,10 +1,10 @@
-# Mariana S. C. Almeida <img align="right" src="https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/mla.gif " width=200 > 
+# Mariana S. C. Almeida <img align="right" src="https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/CleverlyLogo.png " width=200 > 
 
 
 ___
 
 
-<img align="left" src="https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/CleverlyLogo.png " width=250 > 
+<img align="left" src="https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/mla.jpg " width=250 > 
 
 
 Since december 2019 I work as Head of Research at [Cleverly](https://cleverly.ai/), in Lisbon, Portugal, driving NLP (Natural Language Processing) and ML (Machine Learning) methods to help customer support teams becoming more efficient.
