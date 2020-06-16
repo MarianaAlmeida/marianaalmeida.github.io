@@ -90,8 +90,8 @@ ___
 
 ## Journals
 
-* Teste... gfdc
- tyrdfbh hrtergf hgref efeg r
+* Teste... gfdc<br> 
+ tyrdfbh hrtergf <br> hgref efeg r
 
  fghjklç
  
