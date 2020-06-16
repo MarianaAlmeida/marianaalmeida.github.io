@@ -60,13 +60,17 @@ ___
 
 
 * PhD in Electrical and Computer Engineer (2010) from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)  (IST), [Universidade de Lisboa](https://www.ulisboa.pt/) (ULisboa).
-PhD Thesis: "Blind separation and blind deblurring of natural images", October, 2010.  ([PDF](http://www.lx.it.pt/~mscla/MA_pdfs/PhDThesis_MarianaAlmeida2010.pdf))
+PhD Thesis: "Blind separation and blind deblurring of natural images," October, 2010.  ([PDF](http://www.lx.it.pt/~mscla/MA_pdfs/PhDThesis_MarianaAlmeida2010.pdf))
 
 * Five year degree in Electrical and Computer Engineer (2005) from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)  (IST), [Universidade de Lisboa](https://www.ulisboa.pt/) (ULisboa).
-Final Project: "Extensions to Denoising Source Separation ", Neural Networks Research Center of the Helsinki University of Technology (HUT; now [Aalto University](https://www.aalto.fi/en)); [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) (IST), October, 2005. ([PDF](http://www.lx.it.pt/~mscla/MA_pdfs/MarianaSCAlmeida_TFC_05.pdf))
+Final Project: "Extensions to Denoising Source Separation," Neural Networks Research Center of the Helsinki University of Technology (HUT; now [Aalto University](https://www.aalto.fi/en)); [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) (IST), October, 2005. ([PDF](http://www.lx.it.pt/~mscla/MA_pdfs/MarianaSCAlmeida_TFC_05.pdf))
 
 
 # Awards 
+
+* Honorable mention at the Portuguese [IBM Scientific Prize](https://www.ibm.com/;www-05.ibm.com/pt/pc/premio.html) in 2010, for her work on blind image deblurring.
+
+* [Prémio Prof. Luís Vidigal 2004/2005](http://premio-vidigal.inesc.pt/), for her final project on on extensions to denoising source separation.
 
 
 # Publications
