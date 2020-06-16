@@ -6,8 +6,9 @@
 -->
 
 <img align="left" src="images/mla.jpg" width="170"> 
-<img align="right" src="images/CleverlyLogo.png" width="300"> 
-
+<p>
+<img align="center" src="images/CleverlyLogo.png" width="300"> 
+</p>
 
 <!---  
 boarder="100px solid blue" width="180" padding="200px" margin="20px"
