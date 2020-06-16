@@ -182,7 +182,7 @@ ___
 
 * **Mariana S. C. Almeida**, André Abelha and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/), 
 <br> "Multi-resolution approach for blind deblurring of natural images”, 
-IEEE International Conference on Image Processing – ICIP’2012, 30 Set. – 3 Out., Orlando, Florida, EUA,2012.
+<br> IEEE International Conference on Image Processing – ICIP’2012, 30 Set. – 3 Out., Orlando, Florida, EUA,2012.
 
 * **Mariana S. C. Almeida** and [Mário A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
 <br> New stopping criteria for iterative blind image deblurring based on residual whiteness measures," 
