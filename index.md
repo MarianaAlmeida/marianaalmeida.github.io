@@ -80,7 +80,7 @@ ___
 
 # Contacts
 
-https://www.linkedin.com/in/marianaalmeida/
+[https://www.linkedin.com/in/marianaalmeida/](https://www.linkedin.com/in/marianaalmeida/)
 
 marianascalmeida @ gmail.com
 
