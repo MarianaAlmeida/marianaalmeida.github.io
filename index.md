@@ -14,8 +14,6 @@
 
 <p>
 [**News**](#news)
- </p>
-<p>
 [**Publications**](#publications)
 </p>
 
