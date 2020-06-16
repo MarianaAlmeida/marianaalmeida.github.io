@@ -12,9 +12,7 @@
 
 <br>
 
-
-[**News**](#news)  &nbsp; [**Publications**](#publications)
-
+[**News**](#news)  &nbsp;  [**Degrees**](#Degrees)  &nbsp; [**Awards**](#Awards) &nbsp;   [**Publications**](#publications)
 
 <!---  
 boarder="100px solid blue" width="180" padding="200px" margin="20px"
@@ -43,6 +41,14 @@ Until 2013 I mostly worked on image processing in academia. I was a Postdoc fell
  ___
 
 # News 
+
+ ___
+
+# Degrees 
+
+# Awards 
+
+ ___
 
 # Publications
 
