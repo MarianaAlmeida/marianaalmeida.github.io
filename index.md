@@ -106,7 +106,7 @@ ___
 <br> [[Abtract, Bi-affine separability and data](http://www.lx.it.pt/~mscla/Bi-affine%20Model%20Separation%20-%20Signal%20Processing%2012.htm)]
 
 * **Mariana S. C. Almeida** and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/), 
-<br> "[Blind and Semi-Blind Deblurring of Natural Images].(https://ieeexplore.ieee.org/document/5226594)," 
+<br> "[Blind and Semi-Blind Deblurring of Natural Images](https://ieeexplore.ieee.org/document/5226594)," 
 <br> IEEE Trans. Image Processing, Vol.19, pp. 36-52, January, 2010. 
 <br> [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/BID_NI_UBC.htm)]
 <br> **In the Top 10 most accessed articles of IEEE Trans. Image Processing on March 2010**
@@ -125,7 +125,7 @@ ___
 <br> ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2020, Applied Data Science Track KDD ’20, 2020.
 
 * Afonso Mendes, David Nogueira, Samuel Broscheit, Filipe Aleixo, [Pedro Balage](http://www.pedrobalage.com/), Rui Martins, Sebastião Miranda and **Mariana S. C. Almeida**,
-<br> [SUMMA at TAC Knowledge Base Population Task 2017,](https://tac.nist.gov/publications/2017/participant.papers/TAC2017.SUMMA.proceedings.pdf) 
+<br> ["SUMMA at TAC Knowledge Base Population Task 2017",](https://tac.nist.gov/publications/2017/participant.papers/TAC2017.SUMMA.proceedings.pdf) 
 <br> Proceedings of the Text Analysis Conference (TAC) KBP 2017, National Institute of Standards and Technology, Gaithersburg, Maryland USA, 2018.
 
 * Renars Liepins, Ulrich Germann, Guntis Barzdins, Alexandra Birch, Steve Renals, Susanne Weber, Peggy van der Kreeft, Herve Bourlard, João Prieto, Ondrej Klejch, Peter Bell, Alexandros Lazaridis, Afonso Mendes, [Sebastian Riedel](http://www.riedelcastro.org/), **Mariana S. C. Almeida**, [Pedro Balage](http://www.pedrobalage.com/), [Shay B. Cohen](http://homepages.inf.ed.ac.uk/scohen/), Tomasz Dwojak, Philip N. Garner, Andreas Giefer, Marcin Junczys-Dowmunt, Hina Imran, David Nogueira, Ahmed Ali, Sebastião Miranda, Andrei Popescu-Belis, Lesly Miculicich Werlen, Nikos Papasarantopoulos, Abiola Obamuyide, Clive Jones, Fahim Dalvi, [Andreas Vlachos](https://andreasvlachos.github.io/), Yang Wang, Sibo Tong, Rico Sennrich, Nikolaos Pappas, Shashi Narayan, Marco Damonte, Nadir Durrani, Sameer Khurana, Ahmed Abdelali, Hassan Sajjad, Stephan Vogel, David Sheppey, Chris Hernon, 
