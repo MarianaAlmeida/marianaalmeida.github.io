@@ -59,11 +59,11 @@ ___
 # Degrees 
 
 
-* PhD in Electrical and Computer Engineer (2010) from Instituto Superior Técnico (IST), Technical University of Lisbon (UTL).
+* PhD in Electrical and Computer Engineer (2010) from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)  (IST), [Universidade de Lisboa](https://www.ulisboa.pt/) (ULisboa).
 PhD Thesis: "Blind separation and blind deblurring of natural images", October, 2010.  (PDF)
 
-* Five year degree in Electrical and Computer Engineer (2005) from Instituto Superior Técnico (IST), Technical University of Lisbon (UTL).
-Final Project: "Extensions to Denoising Source Separation ", Neural Networks Research Center of the Helsinki University of Technology (HUT); Instituto Superior Técnico (IST), October, 2005. (PDF)
+* Five year degree in Electrical and Computer Engineer (2005) from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)  (IST), [Universidade de Lisboa](https://www.ulisboa.pt/) (ULisboa).
+Final Project: "Extensions to Denoising Source Separation ", Neural Networks Research Center of the Helsinki University of Technology (HUT) - now [Aalto University](https://www.aalto.fi/en); [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) (IST), October, 2005. (PDF)
 
 
 # Awards 
