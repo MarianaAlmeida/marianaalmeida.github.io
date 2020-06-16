@@ -10,8 +10,10 @@
 <img align="center" src="images/CleverlyLogo.png" width="300"> 
 </p>
 
-[Titles](#titles)
-[Go to Heading section] ("#This is a heading")
+<br>
+
+[News](#news)  [Publications](#publications)
+
 
 <!---  
 boarder="100px solid blue" width="180" padding="200px" margin="20px"
@@ -40,9 +42,9 @@ Until 2013 I mostly worked on image processing in academia. I was a Postdoc fell
  ___
 ..
 
-# Titles 
+# News 
 
-# This is a heading
+# Publications
 
 
  ___
