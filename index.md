@@ -10,6 +10,8 @@
 <img align="center" src="images/CleverlyLogo.png" width="300"> 
 </p>
 
+[create an anchor](#anchors-in-markdown)
+
 <!---  
 boarder="100px solid blue" width="180" padding="200px" margin="20px"
 padding="5px"
