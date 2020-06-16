@@ -17,7 +17,7 @@ https://www.markdownguide.org/basic-syntax#headings
 
 <br>
 
-  &nbsp;&nbsp; [**News**](#news)  &nbsp;  [**Degrees**](#Degrees)  &nbsp; [**Awards**](#Awards) &nbsp; [**Publications**](#publications) &nbsp; [**Contacts**](#contacts)
+  &nbsp;&nbsp; [**News**](#news)  &nbsp;  [**Degrees**](#degrees)  &nbsp; [**Awards**](#awards) &nbsp; [**Publications**](#publications) &nbsp; [**Contacts**](#contacts)
 
 <br>
 
