@@ -35,7 +35,7 @@ https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/
 &nbsp;
 -->
 
-Since december 2019, I am Head of Research at [Cleverly](https://cleverly.ai/) in Lisbon, Portugal. We drive NLP (Natural Language Processing) and ML (Machine Learning) to make customer support teams more efficient.
+Since december 2019, I am Head of Research at [Cleverly](https://cleverly.ai/) in Lisbon, Portugal. We drive NLP (Natural Language Processing) and ML (Machine Learning) to make customer support teams more efficients.
 
 Before that I worked as a researcher in industry for 6 years: 4 years at [Priberam Labs](http://labs.priberam.com/) where I explored ML and NLP methods and 2 years at [Feedzai](https://feedzai.com/) where I worked on ML and deep learning methods for fraud prevention.
 <!--- methods to solve--> <!--- problems -->
@@ -56,7 +56,7 @@ style="font-size: 250%"
 
 -->
 
-* <span style="color:rgb(182,0,59)">**Hiring:**</span> &nbsp;[Cleverly](https://cleverly.ai/) got a european **SME Innovation Associate** grant to hire a PhD in NLP or a Reaseracher with equivalent experience for one year. If you are interested, see more details here or [contact me](#contacts)!
+* <span style="color:rgb(182,0,59)">**Hiring:**</span> &nbsp;[Cleverly](https://cleverly.ai/) got a european **SME Innovation Associate** grant to hire a PhD in NLP or a Researcher with equivalent experience for one year. If you are interested, see more details here or [contact me](#contacts)!
 
 * I am co-organizing [LxMLS 2020](http://lxmls.it.pt/2020/). This year LxMLS will be a **fully on-line school**.
 
@@ -68,11 +68,10 @@ ___
 
 
 * PhD in Electrical and Computer Engineer (2010) from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)  (IST), [Universidade de Lisboa](https://www.ulisboa.pt/) (ULisboa).
-PhD Thesis: "Blind separation and blind deblurring of natural images," October, 2010.  ([PDF](http://www.lx.it.pt/~mscla/MA_pdfs/PhDThesis_MarianaAlmeida2010.pdf))
+<br> PhD Thesis: "[Blind separation and blind deblurring of natural images](http://www.lx.it.pt/~mscla/MA_pdfs/PhDThesis_MarianaAlmeida2010.pdf)," October, 2010. 
 
 * Five year degree in Electrical and Computer Engineer (2005) from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)  (IST), [Universidade de Lisboa](https://www.ulisboa.pt/) (ULisboa).
-Final Project: "Extensions to Denoising Source Separation," Neural Networks Research Center of the Helsinki University of Technology (HUT; now [Aalto University](https://www.aalto.fi/en)); [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) (IST), October, 2005. ([PDF](http://www.lx.it.pt/~mscla/MA_pdfs/MarianaSCAlmeida_TFC_05.pdf))
-
+<br> Final Project: "[Extensions to Denoising Source Separation]((http://www.lx.it.pt/~mscla/MA_pdfs/MarianaSCAlmeida_TFC_05.pdf))," Neural Networks Research Center of the Helsinki University of Technology (HUT; now [Aalto University](https://www.aalto.fi/en)); [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) (IST), October, 2005. 
 
 # Awards 
 
@@ -109,8 +108,8 @@ ___
 <br> "[Blind and Semi-Blind Deblurring of Natural Images](https://ieeexplore.ieee.org/document/5226594)," 
 <br> IEEE Trans. Image Processing, Vol.19, pp. 36-52, January, 2010. 
 <br> [[Abstract and MATLAB code](http://www.lx.it.pt/~mscla/BID_NI_UBC.htm)]
-<br> **In the Top 10 most accessed articles of IEEE Trans. Image Processing on March 2010**
-<br> **In the Top 100 IEEE most accessed articles during the months of January, February and March 2010**
+<br> **Top 10 most accessed articles of IEEE Trans. Image Processing on March 2010**
+<br> **Top 100 IEEE most accessed articles during the months of January, February and March 2010**
 
 
 * **Mariana S. C. Almeida** and [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/),
@@ -125,7 +124,7 @@ ___
 <br> ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2020, Applied Data Science Track KDD ’20, 2020.
 
 * Afonso Mendes, David Nogueira, Samuel Broscheit, Filipe Aleixo, [Pedro Balage](http://www.pedrobalage.com/), Rui Martins, Sebastião Miranda and **Mariana S. C. Almeida**,
-<br> ["SUMMA at TAC Knowledge Base Population Task 2017",](https://tac.nist.gov/publications/2017/participant.papers/TAC2017.SUMMA.proceedings.pdf) 
+<br> ["SUMMA at TAC Knowledge Base Population Task 2017](https://tac.nist.gov/publications/2017/participant.papers/TAC2017.SUMMA.proceedings.pdf)," 
 <br> Proceedings of the Text Analysis Conference (TAC) KBP 2017, National Institute of Standards and Technology, Gaithersburg, Maryland USA, 2018.
 
 * Renars Liepins, Ulrich Germann, Guntis Barzdins, Alexandra Birch, Steve Renals, Susanne Weber, Peggy van der Kreeft, Herve Bourlard, João Prieto, Ondrej Klejch, Peter Bell, Alexandros Lazaridis, Afonso Mendes, [Sebastian Riedel](http://www.riedelcastro.org/), **Mariana S. C. Almeida**, [Pedro Balage](http://www.pedrobalage.com/), [Shay B. Cohen](http://homepages.inf.ed.ac.uk/scohen/), Tomasz Dwojak, Philip N. Garner, Andreas Giefer, Marcin Junczys-Dowmunt, Hina Imran, David Nogueira, Ahmed Ali, Sebastião Miranda, Andrei Popescu-Belis, Lesly Miculicich Werlen, Nikos Papasarantopoulos, Abiola Obamuyide, Clive Jones, Fahim Dalvi, [Andreas Vlachos](https://andreasvlachos.github.io/), Yang Wang, Sibo Tong, Rico Sennrich, Nikolaos Pappas, Shashi Narayan, Marco Damonte, Nadir Durrani, Sameer Khurana, Ahmed Abdelali, Hassan Sajjad, Stephan Vogel, David Sheppey, Chris Hernon, 
@@ -185,7 +184,7 @@ ___
 <br> IEEE International Conference on Image Processing – ICIP’2012, 30 Set. – 3 Out., Orlando, Florida, EUA,2012.
 
 * **Mariana S. C. Almeida** and [Mário A. T. Figueiredo](http://www.lx.it.pt/~mtf/), 
-<br> New stopping criteria for iterative blind image deblurring based on residual whiteness measures," 
+<br> "New stopping criteria for iterative blind image deblurring based on residual whiteness measures," 
 <br> IEEE Workshop on Statistical Signal Processing – SSP’2011, Nice, France, 2011. 
 <br> [[MATLAB code](http://www.lx.it.pt/~mscla/WhitenessMeasures.htm)].
 
@@ -211,7 +210,7 @@ Physical Model Trained with ICA](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_MLSP
 * **Mariana S. C. Almeida**, [Harri Valpola](https://lifeboat.com/ex/bios.harri.valpola) and Jaakko Särelä, 
 <br> "[Separation of a Nonlinear Image Mixtures by Denoising Source Separation](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_ICA06_NonlinearDSS.pdf)," 
 <br> Proc. of the 6th International Conference on Independent Component Analysis and Blind Signal Separation – ICA’2006, Charleston, S.C., USA, pp. 8-15, 2006. 
-[[Poster](http://www.lx.it.pt/~mscla/MA_pdfs/Poster_Almeida_ICA06_NonLinearDSS.bmp)]
+<br> [[Poster](http://www.lx.it.pt/~mscla/MA_pdfs/Poster_Almeida_ICA06_NonLinearDSS.bmp)] [Abstract, data and MATLAB code](http://www.lx.it.pt/~mscla/Wavelet%20Separation%20-%20Nerucomputing08.htm)
 
 
 ___
