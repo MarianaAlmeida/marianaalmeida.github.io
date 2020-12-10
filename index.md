@@ -9,7 +9,7 @@ https://www.markdownguide.org/basic-syntax#headings
 [a relative link](another-page.md)
 -->
 
-<img align="left" src="images/mla.jpg" width="170"> 
+<img align="left" src="images/rsz_img_3806_croped_1.jpg" width="200"> 
 
 <br>
 
@@ -29,8 +29,8 @@ margin:20px 30px
 padding-left
 padding-right
  box-sizing="border-box"
-![alt text]("images/mla.jpg")
-![alt text]("https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/images/mla.jpg")
+![alt text]("images/rsz_img_3806_croped_1.jpg")
+![alt text]("https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/images/rsz_img_3806_croped_1.jpg")
 https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/
 &nbsp;
 -->
