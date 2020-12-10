@@ -9,7 +9,7 @@ https://www.markdownguide.org/basic-syntax#headings
 [a relative link](another-page.md)
 -->
 
-<img align="left" src="images/rsz_img_3806_croped_1.jpg" width="200"> 
+<img align="left" src="images/rsz_img_3806_croped_1.jpg" width="180"> 
 
 <br>
 
