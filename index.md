@@ -122,6 +122,11 @@ ___
 
 ## Conferences
 
+* Bruno Jardin, [Ricardo Rei](https://www.inesc-id.pt/member/19471/), **Mariana S. C. Almeida**,
+<br> "[Multilingual Email Zoning](https://arxiv.org/abs/2102.00461),"
+<br> Annual Meeting of the European Chapter of the Association for Computational Linguistics (EACL'21) SRW, 2021.
+<br> [[Cleverly Multilingual Zoning Corpora](https://github.com/cleverly-ai/multilingual-email-zoning)]
+
 * Bernardo Branco, Pedro Abreu, Ana Sofia Gomes, **Mariana S. C. Almeida**, João Tiago Ascensão, Pedro Bizarro,
 <br> "[Interleaved Sequence RNNs for Fraud Detection](https://arxiv.org/pdf/2002.05988.pdf),"
 <br> ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2020, Applied Data Science Track KDD ’20, 2020.
