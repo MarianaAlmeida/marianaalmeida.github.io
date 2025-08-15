@@ -243,7 +243,7 @@ ___
 &nbsp; [<img align="center" src="images/scholar_logo2.png" width="28">](https://scholar.google.com/citations?user=1_U5zugAAAAJ&hl=en&authuser=1&oi=sra)
 &nbsp;[https://www.linkedin.com/in/marianaalmeida/](https://www.linkedin.com/in/marianaalmeida/)
 marianascalmeida @ gmail.com
-mariana @ cleverly.ai
+mariana.almeida @ zendesk.com
 https://stackoverflow.com/questions/37413679/how-to-add-a-linkedin-link-to-jekyll-pages-on-github
 https://raw.githubusercontent.com/carlsednaoui/gitsocial/master/README.md
 https://github.com/carlsednaoui/gitsocial
