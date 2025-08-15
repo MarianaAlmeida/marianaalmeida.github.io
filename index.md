@@ -18,6 +18,7 @@ https://www.markdownguide.org/basic-syntax#headings
 <br>
 
  &nbsp; &nbsp; &nbsp; [**News**](#news)  &nbsp;  [**Degrees**](#degrees)  &nbsp; [**Awards**](#awards) &nbsp; [**Publications**](#publications) &nbsp; [**Contacts**](#contacts)
+ &nbsp; &nbsp; [**CV**](https://raw.githubusercontent.com/MarianaAlmeida/marianaalmeida.github.io/94f9e116754d5fd581774fb848137799793d589b/documents/MarianaSCAlmeida_CV.pdf)
 
 <br>
 
@@ -84,7 +85,7 @@ ___
 
 ___
 
-# Publications
+# Publications  [[PDF]](https://raw.githubusercontent.com/MarianaAlmeida/marianaalmeida.github.io/94f9e116754d5fd581774fb848137799793d589b/documents/MarianaSCAlmeida_ListPublications.pdf)
 
 ## Patents
 
