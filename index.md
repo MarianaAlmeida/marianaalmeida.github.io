@@ -87,6 +87,12 @@ ___
 
 # Publications  [[PDF]](https://raw.githubusercontent.com/MarianaAlmeida/marianaalmeida.github.io/94f9e116754d5fd581774fb848137799793d589b/documents/MarianaSCAlmeida_ListPublications.pdf)
 
+* Author of ~30 publications in international journals and top international conferences (IEEE-ICIP, EMNLP, ACL, EACL, COLING, etc.) with peer review; 8 patents (4 granted and 4 pending); and other communications.
+* Topics: LLMs and agentic evaluation, explainability, NLP, machine learning applied to customer support, fraud prevention, image processing, and optimization. 
+* Details: See [Full list of publications](https://raw.githubusercontent.com/MarianaAlmeida/marianaalmeida.github.io/94f9e116754d5fd581774fb848137799793d589b/documents/MarianaSCAlmeida_ListPublications.pdf)
+
+
+<!--
 ## Patents
 
 * National Patent: "Processo de focagem cega de imagens," BPI: 246/2009, 2009.
@@ -221,7 +227,7 @@ Physical Model Trained with ICA](http://www.lx.it.pt/~mscla/MA_pdfs/Almeida_MLSP
 <br> Proc. of the 6th International Conference on Independent Component Analysis and Blind Signal Separation – ICA’2006, Charleston, S.C., USA, pp. 8-15, 2006. 
 <br> [[Poster](http://www.lx.it.pt/~mscla/MA_pdfs/Poster_Almeida_ICA06_NonLinearDSS.bmp)] [[Abstract, data and MATLAB code](http://www.lx.it.pt/~mscla/Wavelet%20Separation%20-%20Nerucomputing08.htm)]
 
-
+-->
 ___
 
 # Contacts
