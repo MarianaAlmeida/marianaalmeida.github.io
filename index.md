@@ -45,9 +45,11 @@ Until 2013 I mostly worked on image processing in academia. I was a Postdoc fell
 
 <!--- , at [IT](https://www.it.pt/) of Lisbon, Portugal.-->
 
+<!---
 ___
 
 # News 
+-->
 <!--- 
 7,48,66
 69,212,153
@@ -56,7 +58,7 @@ style="font-size: 250%"
 48,148,107
 
 -->
-
+<!---
 * <span style="color:rgb(182,0,59)">**Hiring:**</span> &nbsp;[Cleverly](https://cleverly.ai/) got a european **SME Innovation Associate** grant to hire a PhD in NLP or a Researcher with equivalent experience for one year. If you are interested, see more details [here](https://cleverly.ai/jobs/#job-494138) or [contact me](#contacts)!
 
 
@@ -65,7 +67,7 @@ style="font-size: 250%"
 * I am co-organizing [LxMLS 2020](http://lxmls.it.pt/2020/). This year LxMLS will be a **fully on-line school**.
 
 * In december 2019 I joined [Cleverly](https://cleverly.ai/) :-) We are building AI-driven solutions that make customer support teams more efficient!
-
+-->
 ___
 
 # Degrees 
