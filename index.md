@@ -23,6 +23,13 @@ https://www.markdownguide.org/basic-syntax#headings
 <br>
 
 <!---  
+&nbsp; &nbsp; &nbsp; [<img align="center" src="images/linkedin_logo.svg" width="30">](https://www.linkedin.com/in/marianaalmeida/)
+&nbsp; [<img align="center" src="images/scholar_logo5.png" width="27">](https://scholar.google.com/citations?user=1_U5zugAAAAJ&hl=en&authuser=1&oi=sra)
+
+<br>
+-->
+
+<!---  
 boarder="100px solid blue" width="180" padding="200px" margin="20px"
 padding="5px"
 0 10px
@@ -36,12 +43,15 @@ https://github.com/MarianaAlmeida/marianaalmeida.github.io/blob/master/
 &nbsp;
 -->
 
-Since december 2019, I am Head of Research at [Cleverly](https://cleverly.ai/) in Lisbon, Portugal. We drive NLP (Natural Language Processing) and ML (Machine Learning) to make customer support teams more efficient.
+I have been working on Machine Learning (ML) and Natural Language Processing (NLP) applied to Customer Experience (CX) domain, from the past 5 years, both at [Zendesk](https://zendesk.com) and at [Cleverly.ai (acq. by Zendesk)](https://www.linkedin.com/company/cleverlyai/).
 
-Before that I worked as a researcher in industry for 6 years: 4 years at [Priberam Labs](http://labs.priberam.com/) where I explored ML and NLP methods and 2 years at [Feedzai](https://feedzai.com/) where I worked on ML and deep learning methods for fraud prevention.
-<!--- methods to solve--> <!--- problems -->
+Currently, I am Global Lead Scientist at [Zendesk](https://zendesk.com), overseeing Machine Learning Science from research to applications across the Zendesk product. Together with a team of ~20 scientists and ~10 annotators, ML science works with product and engineering teams to innovate and bring value with AI at the various stages of Zendesk CX platform: from end-user deflections (such as conversational RAG and generative search); passing to agent productivity (assisting human agents replying to end-user requests and executing relevant actions integrated in the product); to admin experience (such as routing request, generating content and product insights).
 
-Until 2013 I mostly worked on image processing in academia. I was a Postdoc fellow at [IT](https://www.it.pt/) of Lisbon, working on image reconstruction and optimization under the supervision of [Mário A. T. Figueiredo](http://www.lx.it.pt/~mtf/). And my PhD was in the field of blind image separation and blind deconvolution, under the supervision of [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/)
+From December 2019 to August 2021, I was Head of Research at [Cleverly.ai (acq. by Zendesk)](https://www.linkedin.com/company/cleverlyai/), an early stage startup in Lisbon, Portugal. At Cleverly, we were driving NLP and ML to make customer support teams more efficient. And after Cleverly acquisition in 2021, we have been scaling and improving our AI foundations into Zedesk, where I initially joined as an Engineering Manager.
+
+Before that, I worked as a researcher in industry for 6 years: 4 years at [Priberam Labs](http://labs.priberam.com/) where I explored ML and NLP methods and 2 years at [Feedzai](https://feedzai.com/) where I worked on ML and deep learning methods for fraud prevention.
+
+Until 2013 I mostly worked on image processing in academia. I was a Postdoc fellow at [IT](https://www.it.pt/) of Lisbon, working on image reconstruction and optimization with [Mário A. T. Figueiredo](http://www.lx.it.pt/~mtf/). And my PhD was in the field of blind image separation and blind deconvolution, under the supervision of [Luís B. Almeida](http://www.lx.it.pt/~lbalmeida/)
 
 <!--- , at [IT](https://www.it.pt/) of Lisbon, Portugal.-->
 
