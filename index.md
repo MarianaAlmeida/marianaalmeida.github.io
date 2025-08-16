@@ -62,10 +62,13 @@ ___
 
 <ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
   <li>
-    I have co-organized another successful edition of LxMLS summer school -- <a href="http://lxmls.it.pt/2025/">LxMLS 2025</a>
+    I have co-organized another successful edition of <b>LxMLS summer school</b>: <a href="http://lxmls.it.pt/2025/">LxMLS 2025</a>!
     <ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
       <li>
-         <a href="https://zendesk.com/">Zendesk</a>  was Silver sponsor and <a href="https://www.linkedin.com/in/samuel-arcadinho/">Samuel Arcadinho</a> presented ou poster about the <a href="https://lnkd.in/dwQYRPWk">ALMITA benchmark</a>.
+         <a href="https://zendesk.com/">Zendesk</a>  was <b>Silver sponsor</b> 
+      </li>
+     <li>
+         <a href="https://www.linkedin.com/in/samuel-arcadinho/">Samuel Arcadinho</a> presented <b>our poster</b> about the <a href="https://lnkd.in/dwQYRPWk">ALMITA benchmark</a>.
       </li>
       <li>
      Check out: 
@@ -79,14 +82,14 @@ and
 
 <ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
   <li>
-    Happy to have helped Zendesk doing and early evaluation of GPT-5 on CX domain, in a collaboration with OpenAI.
+    Happy to have helped Zendesk doing and <b>early evaluation of GPT-5</b> on CX domain, in a collaboration with OpenAI!
     <ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
       <li>
          Check out: 
 <a href="https://www.linkedin.com/posts/supadhyay_zendesk-ai-gpt-5-setting-the-pace-for-activity-7359296132453224448-GYlY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADKrgMBUiZ0-XqSg4sXTofsEl7Aqy7Txsg">Linked post</a> 
 and 
-<a href="http://zendesk.com/blog/zip2-zendesk-ai-gpt-5/">Zendesk blogpost</a> 
-from our Presendient of Products Engineering and AI
+<a href="http://zendesk.com/blog/zip2-zendesk-ai-gpt-5/">Zendesk blogpost</a>, 
+from our Presendient of Products Engineering and AI.
       </li>
      </ul>
   </li>
@@ -94,7 +97,7 @@ from our Presendient of Products Engineering and AI
 
 <ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
   <li>
-I had the honour to represent <a href="https://zendesk.com">Zendesk</a> in this great episode of <a href="https://www.linkedin.com/company/thenextbigidea/">The Next Big Idea</a> TV series from SIC Noticias.    
+I had the honour to represent <a href="https://zendesk.com">Zendesk</a> in a great episode of <a href="https://www.linkedin.com/company/thenextbigidea/">The Next Big Idea</a> TV series from <b>SIC Noticias</b>!    
    <ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
       <li>
          Check out: the episode in the 
@@ -106,9 +109,7 @@ I had the honour to represent <a href="https://zendesk.com">Zendesk</a> in this 
 
 <ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
   <li>
-Zendesk was at EMNLP 2024, presenting 
-<a href="https://github.com/zendesk/almita-dataset">ALMITA benchmarking</a> 
-that we open sourced to drive evaluation of AI agents in CX domain!
+Zendesk was at <b>EMNLP 2024</b>, presenting <b>ALMITA benchmarking</b> that we open sourced to drive evaluation of AI agents in CX domain!
    <ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
       <li>
         Check out: 
