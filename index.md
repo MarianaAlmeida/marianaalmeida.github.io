@@ -233,7 +233,7 @@ ___
 # Contacts
 
 
-<img align="center" src="images/emails.png" width="300"> 
+<img align="center" src="images/mariana_emails.png" width="300"> 
 
 &nbsp; [<img align="center" src="images/linkedin_logo.svg" width="30">](https://www.linkedin.com/in/marianaalmeida/)
 &nbsp; [<img align="center" src="images/scholar_logo5.png" width="27">](https://scholar.google.com/citations?user=1_U5zugAAAAJ&hl=en&authuser=1&oi=sra)
