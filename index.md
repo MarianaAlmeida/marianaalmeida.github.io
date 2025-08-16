@@ -55,11 +55,88 @@ Until 2013 I mostly worked on image processing in academia. I was a Postdoc fell
 
 <!--- , at [IT](https://www.it.pt/) of Lisbon, Portugal.-->
 
-<!---
+
 ___
 
 # News 
--->
+
+<ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
+  <li>
+    I have co-organized another successful edition of LxMLS summer school -- <a href="http://lxmls.it.pt/2025/">LxMLS 2025</a>
+    <ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
+      <li>
+         <a href="https://zendesk.com/">Zendesk</a>  was Silver sponsor and <a href="https://www.linkedin.com/in/samuel-arcadinho/">Samuel Arcadinho</a> presented ou poster about the <a href="https://lnkd.in/dwQYRPWk">ALMITA benchmark</a>.
+      </li>
+      <li>
+     Check out: 
+<a href="https://www.linkedin.com/posts/marianaalmeida_zendesk-lxmls-nlp-activity-7358870183840563200-EaM_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADKrgMBUiZ0-XqSg4sXTofsEl7Aqy7Txsg">LinkedIn post</a> 
+and 
+<a href="https://www.youtube.com/watch?v=gTDxn3aiut0&list=PLQl_xdhSmQejlq2Asgq55T60dlJkXbFPx">LxMLS YouTube</a> 
+      </li>
+     </ul>
+  </li>
+</ul>
+
+<ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
+  <li>
+    Happy to have helped Zendesk doing and early evaluation of GPT-5 on CX domain, in a collaboration with OpenAI.
+    <ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
+      <li>
+         Check out: 
+<a href="https://www.linkedin.com/posts/supadhyay_zendesk-ai-gpt-5-setting-the-pace-for-activity-7359296132453224448-GYlY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADKrgMBUiZ0-XqSg4sXTofsEl7Aqy7Txsg">Linked post</a> 
+and 
+<a href="http://zendesk.com/blog/zip2-zendesk-ai-gpt-5/">Zendesk blogpost</a> 
+from our Presendient of Products Engineering and AI
+      </li>
+     </ul>
+  </li>
+</ul>
+
+<ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
+  <li>
+I had the honour to represent <a href="https://zendesk.com">Zendesk</a> in this great episode of <a href="https://www.linkedin.com/company/thenextbigidea/">The Next Big Idea</a> TV series from SIC Noticias.    
+   <ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
+      <li>
+         Check out: the episode in the 
+<a href="https://www.linkedin.com/posts/marianaalmeida_retalho-ecommerce-saaeqde-activity-7348289711955677185-akUq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADKrgMBUiZ0-XqSg4sXTofsEl7Aqy7Txsg">Linked post</a>
+      </li>
+     </ul>
+  </li>
+</ul>
+
+<ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
+  <li>
+Zendesk was at EMNLP 2024, presenting 
+<a href="https://github.com/zendesk/almita-dataset">ALMITA benchmarking</a> 
+that we open sourced to drive evaluation of AI agents in CX domain!
+   <ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
+      <li>
+        Check out: 
+<a href="https://www.linkedin.com/posts/activity-7263888570686328832-0HCK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADKrgMBUiZ0-XqSg4sXTofsEl7Aqy7Txsg">Linked post</a>,
+<a href="https://github.com/zendesk/almita-dataset">ALMITA repo</a> and
+<a href="https://aclanthology.org/2024.genbench-1.4/">Paper</a>
+      </li>
+     </ul>
+  </li>
+</ul>
+<!--- 
+* I have co-organized another successful edition of LxMLS summer school -- [LxMLS 2025](http://lxmls.it.pt/2025/)!
+  * [Zendesk](https://zendesk.com) was Silver sponsor and [Samuel Arcadinho](https://www.linkedin.com/in/samuel-arcadinho/) presented ou poster about the [ALMITA benchmark](https://lnkd.in/dwQYRPWk).
+  * Check out: [LinkedIn post](https://www.linkedin.com/posts/marianaalmeida_zendesk-lxmls-nlp-activity-7358870183840563200-EaM_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADKrgMBUiZ0-XqSg4sXTofsEl7Aqy7Txsg) and [LxMLS YouTube](https://www.youtube.com/watch?v=gTDxn3aiut0&list=PLQl_xdhSmQejlq2Asgq55T60dlJkXbFPx)
+
+
+* Happy to have helped Zendesk doing and early evaluation of GPT-5 on CX domain, in a collaboration with OpenAI.
+  * Check out: [Linked post](https://www.linkedin.com/posts/supadhyay_zendesk-ai-gpt-5-setting-the-pace-for-activity-7359296132453224448-GYlY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADKrgMBUiZ0-XqSg4sXTofsEl7Aqy7Txsg) and [Zendesk blogpost](http://zendesk.com/blog/zip2-zendesk-ai-gpt-5/) from our Presendient of Products Engineering and AI
+
+ 
+* I had the honour to represent [Zendesk](https://zendesk.com) in this great episode of [The Next Big Idea](https://www.linkedin.com/company/thenextbigidea/) TV program from SIC Noticias.
+  * Check out: the episode in the [Linked post](https://www.linkedin.com/posts/marianaalmeida_retalho-ecommerce-saaeqde-activity-7348289711955677185-akUq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADKrgMBUiZ0-XqSg4sXTofsEl7Aqy7Txsg)
+
+
+* Zendesk was present at EMNLP 2024, presenting [ALMITA benchmarking](https://github.com/zendesk/almita-dataset) that Zendesk open sourced to drive evaluation of AI agents in CX domain!
+  * Check out: [Linked post](https://www.linkedin.com/posts/activity-7263888570686328832-0HCK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADKrgMBUiZ0-XqSg4sXTofsEl7Aqy7Txsg); [ALMITA repo](https://github.com/zendesk/almita-dataset) wih open sourced benchmarking; [Paper](https://aclanthology.org/2024.genbench-1.4/)
+-->  
+
 <!--- 
 7,48,66
 69,212,153
