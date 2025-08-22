@@ -80,6 +80,7 @@ and
   </li>
 </ul>
 
+<!---
 <ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
   <li>
     Happy to have helped Zendesk doing and <b>early evaluation of GPT-5</b> on CX domain, in a collaboration with OpenAI!
@@ -94,6 +95,7 @@ from our Presendient of Products Engineering and AI.
      </ul>
   </li>
 </ul>
+-->
 
 <ul style="margin-top:0; margin-bottom:0; padding-left:20px;">
   <li>
